@@ -1,0 +1,2708 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<title>?????·,4399?????·,?????·?ó??,?????????·?ó?? - www.4399.com</title>
+
+<meta name="description" content="4399?????·?ó??°ü???????? ,???????????·?ó??,?????????·?ó??,H5?????????·,4399???????ú,4399?ü????,4399°?????,4399°?±???,4399??????,4399?????????·,°?±????????·,?ì???÷??online,?ì????????×????????·??" />
+
+<meta name="keywords" content="?????·,4399?????·,?????????·,?????????·,?????·?ó??,?????????·?ó??" />
+
+<meta property="og:type" content="image"/>
+
+<meta property="og:image" content="//imga1.5054399.com/upload_pic/2015/7/10/4399_11174921955.jpg" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+<meta property="qc:admins" content="5303563577643116375" />
+
+<meta property="wb:webmaster" content="9a9751c8cd36bccb" />
+
+<link rel="alternate" media="only screen and(max-width: 640px)" href="//h.4399.com/"/>
+
+<meta http-equiv="Cache-Control" content="no-transform " />
+
+<script>
+
+document.domain = "4399.com";
+
+function check_mobile(){
+
+    var ua = navigator.userAgent;
+
+    ua = ua ? ua.toLowerCase().replace(/-/g, "") : "";
+
+    if (ua.match(/(Android)/i)){location.href = "//h.4399.com/?301";}
+
+    if (ua.match(/(iPhone|iPod)/i)){location.href = "//h.4399.com/?301";}
+
+    if (ua.match(/(iPad)/i)){location.href = "//h.4399.com/?301";}
+
+    if (ua.match(/(U;)/i)){//UC Browser
+
+        if (ua.match(/(Adr)/i)){location.href = "//h.4399.com/?301";}
+
+        if (ua.match(/(iPh)/i)){location.href = "//h.4399.com/?301";}
+
+        if (ua.match(/(iPd)/i)){location.href = "//h.4399.com/?301";}
+
+    }
+
+}
+
+check_mobile();
+
+function my_trace(id){
+
+  try{new Image().src = "//click.5054399.com/click.js?from="+id;}catch(ex){}
+
+}
+
+	  
+
+</script>
+
+
+
+<link href="/css/index20180826.css" rel="stylesheet" type="text/css" />
+
+<script>var ndate = new Date();document.write('<link rel="stylesheet" href="//ptlogin.3304399.net/resource/css/base.css?'+ndate.getFullYear()+(ndate.getMonth()+1)+ndate.getDate()+(ndate.getHours()<12?1:2)+'" type="text/css"/>')</script>
+
+<script>var ndate = new Date();document.write('<script type="text/javascript" src="//ptlogin.3304399.net/resource/ucenter.js?'+ndate.getFullYear()+(ndate.getMonth()+1)+ndate.getDate()+(ndate.getHours()<12?1:2)+'" charset="utf-8"/><\/script>')</script>
+
+<link rel="stylesheet" href="/resource8/style.css" type="text/css"/>
+
+<script language="javascript">
+
+var hasgetCNXH = 0;
+
+var hasgetPlayed = 0;
+
+var jsloadcomplate = 0;
+
+var ccookie = document.cookie;var index4399skin = 0;if(ccookie){var reg = /index4399skin=\d/g;var index4399skins = ccookie.match(reg);if(index4399skins){index4399skin = index4399skins[0].replace("index4399skin=","").replace(";","");}}
+
+var _skin = [["0","-","/css/index3/color0.css"],["1","//imga4.5054399.com/upload_pic/2016/5/28/4399_10530372629.jpg","/css/index15/color2.css"],["2","//imga3.5054399.com/upload_pic/2016/5/28/4399_10531272800.jpg","/css/index15/color3.css"],["3","//imga5.5054399.com/upload_pic/2016/5/28/4399_10522666489.jpg","/css/index15/color4.css"],["4","//imga1.5054399.com/upload_pic/2016/5/28/4399_10533094204.jpg","/css/index15/color5.css"],["5","//imga5.5054399.com/upload_pic/2016/5/28/4399_10524899454.jpg","/css/index15/color2.css"],["6","//imga3.5054399.com/upload_pic/2016/5/28/4399_10524037699.jpg","/css/index15/color4.css"]];for(a in _skin){if(_skin[a][0]==index4399skin){var cskincss = _skin[a][2];var cskinimg = _skin[a][1];}}
+
+document.write('<link id="skincss" href="'+cskincss+'" rel="stylesheet" type="text/css" />');
+
+function tracking(e){e = e ? e : window.event;var s = e.srcElement ? e.srcElement : e.target;var a = s.tagName;var u = s.href ? s.href : s.src;var t = s.innerText ? s.innerText : s.textContent;if (a == "B"||a == "STRONG"||a == "SPAN"||a == "FONT"){a = "A";u = s.parentNode.href;}if (a == "DIV"||a == "EM"||a == "I"){a = "A";u = s.parentNode;}if (a == "IMG"){t = u;u = s.parentNode.href;}if(a == "A" || a == "IMG"){try{new Image().src = "//trace4399.5054399.com/trace.js?addd="+a+"&uddd="+escape(u)+"&tddd="+t;}catch(ex){}}return true;}
+
+function tracead(f){try{new Image().src = "//adtrace.5054399.com/click.js?from="+f;}catch(ex){}return true;}
+
+function showPlayed(num){if(num==1){if(hasgetPlayed == 0){if(jsloadcomplate==1){getPlayed();}else{if(num==1){document.getElementById("reading1").style.display = "block";}else{document.getElementById("reading1").style.display = "none";}window.setTimeout(function(){showPlayed(num);},500);}}document.getElementById("showplay1").style.display = "block";document.getElementById("showplay2").style.display = "block";}else{document.getElementById("showplay1").style.display = "none";document.getElementById("showplay2").style.display = "none";document.getElementById("reading1").style.display = "none";}}
+
+function showc(num){if(num==1){if(hasgetCNXH == 0){if(jsloadcomplate==1){getCNXH();}else{if(num==1){document.getElementById("reading2").style.display = "block";document.getElementById("notj").style.display = "none";}else{document.getElementById("reading2").style.display = "none";document.getElementById("notj").style.display = "block";}window.setTimeout(function(){showc(num);},500);}}document.getElementById("showc1").style.display = "block";document.getElementById("showc2").style.display = "block";}else{document.getElementById("showc1").style.display = "none";document.getElementById("showc2").style.display = "none";document.getElementById("reading2").style.display = "none";}}
+
+function getTop(e){var offset=e.offsetTop;if(e.offsetParent!=null) offset+=getTop(e.offsetParent);return offset;}
+
+function GoToBestPosition(controls,offsets){var objBestPosition = document.getElementById(controls);var intBestPosition = getTop(objBestPosition);window.scrollTo(0,intBestPosition-offsets);}
+
+var defaultbackgroundimg = "";var defaultbackgroundlink = "";</script>
+
+<link rel="shortcut icon" href="/favicon.ico" />
+
+<base target="_blank"></base>
+
+</head>
+
+<body onmousedown="tracking(event);" id="skinbody">
+
+<div class="skin-lk" id="defaultbglink">
+
+	</div>
+
+<!--????-->
+
+
+
+
+
+<div class="nav_box">
+
+<div class="nav_top">
+
+<div class="wrap">
+
+<ul class="link_w">
+
+<li><a href="javascript:addBookmark2();" target="_self">????4399</a></li>
+
+<li><a href="//www.4399.com/desk/">±?????×??? </a></li>
+
+</ul>
+
+<div class="search">
+
+<form style="display: inline;" onsubmit="return checksearch(this)" method="get" action="//so2.4399.com/search/search.php">
+
+<div class="s_fl"><input autocomplete="off" name="k" value="???÷?????·" onclick="document.charset='gb2312';chkSosmart()" class="sh text" id="smart_input"></div>
+
+<div class="s_fl"><input type="submit" value="" class="s_btn"></div>
+
+</form>
+
+</div>
+
+<div class="link_r" id="func">
+
+
+
+<a class="ico_1" style="display:none" id="login_tologin" target="_blank" href="//my.4399.com/account/login">????</a>
+
+<a target="_blank" style="display:none" id="login_toregister" href="//my.4399.com/account/login">×??á</a>
+
+<a class="acc" href="#" style="display:none" id="logined" onmouseover="showlogineddiv(1);return false;" onmouseout="showlogineddiv(0);return false;"></a>
+
+
+
+<script type="text/javascript">
+
+	var uid = UniLogin.getUid();
+
+	var uname = UniLogin.getDisplayNameText();
+
+	if(uid>0){
+
+		document.write('<a class="acc origned" href="//u.4399.com/user/info"><img src="//a.img4399.com/'+uid+'/small" /><span>'+uname+'</span>');
+
+	}else{
+
+		//document.write('<a class="ico_1 origned" id="login_tologin" target="_blank" href="//my.4399.com/account/login">????</a><a target="_blank" id="login_toregister" href="//my.4399.com/account/login">×??á</a>');
+
+	}
+
+</script>
+
+
+
+<a class="ico_6" href="" target="_self" onclick="return false;" onmouseover="showPlayed(1);return false;" onmouseout="showPlayed(0);return false;">????????</a>
+
+<a class="ico_2" href="" target="_self" onclick="return false;" onmouseover="showc(1);return false;" onmouseout="showc(0);return false;">????????</a>
+
+<a class="ico_3" href="#" target="_self" onclick="return false;" id="chskin"><em class="s_em">??·?</em></a>
+
+</div>
+
+
+
+<a class="i6_hover" id="showplay1" href="" onclick="return false;" onmouseover="showPlayed(1);return false;" onmouseout="showPlayed(0);return false;" style="display:none">????????</a>
+
+<div class="played p_ml" id="showplay2" onmouseover="showPlayed(1);return false;" onmouseout="showPlayed(0);return false;" style="display:none">
+
+	<div class="top-tit cf">
+
+		<i></i>
+
+		<a class="a" href="//my.4399.com/shoucang/">????????</a>
+
+		<a class="dl" href="//my.4399.com/shoucang/">?ü?à</a>
+
+	</div>
+
+	<div class="not_p1" id="reading3">?????????????????ò...</div>
+
+	<div class="not_p" id="showword3" style="display:none">?ú???????????????????·</div>
+
+	<div class="not_p1" id="retry3" style="display:none"><a href="" onclick="getFavoiteList();return false;">???ó???±?????÷????</a></div>
+
+	<div id="sclist" class="d-line" style="display:none"></div>
+
+	<div class="top-tit cf">
+
+		<i></i>
+
+		<a class="a" href="//my.4399.com/shoucang/?m=PlayLog">×??ü????</a>
+
+		<a class="dl" href="//my.4399.com/shoucang/?m=PlayLog">?ü?à</a>
+
+	</div>
+
+	<div class="not_p1" id="reading1" style="display:none">?????????????????ò...</div>
+
+	<div class="not_p1" id="showword" style="display:none">???±?????????·???????????????????·°?</div>
+
+	<div id="tjgameplay"></div>
+
+	<div id="rel_pagplay"></div>
+
+</div>
+
+
+
+<a class="i2_hover" id="showc1" style="display:none;" href="" onclick="return false;" onmouseover="showc(1);return false;" onmouseout="showc(0);return false;">????????</a>
+
+<div class="login" id="logined2" style="display:none;" onmouseover="showlogineddiv(1);return false;" onmouseout="showlogineddiv(0);return false;"></div>
+
+<div class="played" id="showc2" style="display:none;" onmouseover="showc(1);return false;" onmouseout="showc(0);return false;">
+
+<div class="top-tit cf">
+
+	<i></i>
+
+	<a class="a" class="morediv" href="//my.4399.com/shoucang/?m=Recommend">????????</a>
+
+	<a class="dl" class="morediv" href="//my.4399.com/shoucang/?m=Recommend">?ü?à</a>
+
+</div>
+
+<div class="not_p1" id="notj">?ù???ú?????·?????????ú???????????·</div>
+
+<div class="not_p1" id="reading2" style="display:none">?????????????????ò...</div>
+
+<div id="tjgame"></div>
+
+<div id="rel_pag"></div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<div class="top">
+
+	<a class="logo" href="javascript:addBookmark2();" target="_self"><img alt="4399?????·" src="//imga2.5054399.com/upload_pic/2015/9/1/4399_17562395347.gif" /></a>
+
+<a href="//app.4399.cn/" class="tdc"><img src="//imga1.5054399.com/upload_pic/2019/6/27/4399_16561781227.gif">4399???·??</a>
+
+	<div class="reco">
+
+    	<em class="r_up" id="r_up"></em>
+
+        <div class="reco_c" id="web_logo_1">
+
+			<a onclick="return tracead('www_index_top_logo_01');" href="/flash/12439.htm"><img alt="??????" src="//imga.5054399.com/upload_pic/2022/11/17/4399_14151115333.jpg"></a><a onclick="return tracead('www_index_top_logo_02');" href="https://news.4399.com/pikatang/"><img alt="?¤?¨??" src="//imga3.5054399.com/upload_pic/2023/1/16/4399_10385690823.jpg"></a><a onclick="return tracead('www_index_top_logo_03');" href="/flash/218874.htm"><img alt="????°??÷" src="//imga4.5054399.com/upload_pic/2022/9/15/4399_17220038513.jpg"></a><a onclick="return tracead('www_index_top_logo_04');" href="https://news.4399.com/hxjy/"><img alt="????????" src="//imga2.5054399.com/upload_pic/2022/11/11/4399_14153822592.jpg"></a><a onclick="return tracead('www_index_top_logo_05');" href="//my.4399.com/yxbzsc/"><img alt="°???????" src="//imga.5054399.com/upload_pic/2023/1/29/4399_16294994106.jpg"></a>		</div>
+
+		<div class="reco_c" id="web_logo_2" style="display:none">
+
+			<a onclick="return tracead('www_index_top_logo_06');" href="/flash/159974.htm"><img alt="???¤?÷????" src="//imga5.5054399.com/upload_pic/2019/10/12/4399_15560030726.jpg"></a><a onclick="return tracead('www_index_top_logo_07');" href="/flash/82376.htm"><img alt="????·???" src="//imga5.5054399.com/upload_pic/2023/2/1/4399_16010577414.jpg"></a><a onclick="return tracead('www_index_top_logo_08');" href="/flash/228701.htm"><img alt="???ì??" src="//imga.5054399.com/upload_pic/2022/9/22/4399_14222362342.jpg"></a><a onclick="return tracead('www_index_top_logo_09');" href="//my.4399.com/yxtouch/"><img alt="touch????" src="//imga2.5054399.com/upload_pic/2022/8/10/4399_16091683908.jpg"></a><a onclick="return tracead('www_index_top_logo_10');" href="/special/19.htm"><img alt="4399???????·?ó??" src="//imga1.5054399.com/upload_pic/2014/5/16/4399_10313302162.jpg"></a>		</div>
+
+        <em class="r_do" id="r_do"></em>
+
+    </div>
+
+
+
+	<div class="reco_r">
+
+				<a href="//web.4399.com/" rel="nofollow" onclick="return tracead('www_topright_1');"><img alt="4399???????·" src="//imga5.5054399.com/upload_pic/2022/5/10/4399_14030376672.jpg"/></a>
+
+			<a href="http://news.4399.com/dfzjyx/"  onclick="return tracead('www_topright_2');"><img alt="á?·?????" src="//imga2.5054399.com/upload_pic/2023/2/8/4399_16354548888.jpg"/></a>
+
+	    </div>
+
+</div>
+
+<!--logo end-->
+
+<!--????-->
+
+<div class="menu">
+
+<div class="menu_le">
+
+<a class="m_on" href="//www.4399.com/">?×??</a>
+
+<a href="/flash_fl/2_1.htm">??×÷</a>
+
+<a href="/flash_fl/3_1.htm">????</a>
+
+<a href="/flash_fl/5_1.htm">????</a>
+
+<a href="/flash_fl/4_1.htm">???÷</a>
+
+<a href="/flash_fl/6_1.htm">?°??</a>
+
+<a href="/flash_fl/7_1.htm">????</a>
+
+<a href="/flash_fl/8_1.htm">????</a>
+
+<a href="/flash_fl/12_1.htm">????</a>
+
+<a href="/special/195.htm">???ú</a>
+
+<a href="/flash_fl/16_1.htm">×°°?</a>
+
+<a href="/flash_fl/13_1.htm">?ù??</a>
+
+<a href="/special/90.htm">????</a>
+
+<a href="/special/1.htm">????</a>
+
+<a class="gp" href="//www.4399dmw.com/donghua/">??????</a>
+
+<a class="gp" href="//www.3000.com/">????????</a>
+
+<a class="gp" href="//www.4399.cn/">???ú???·</a>
+
+</div>
+
+<div class="menu_ri">
+
+<a href="/special/19.htm">???????·</a>
+
+<a href="//my.4399.com/">???·°?</a>
+
+</div>
+
+</div>
+
+<div id="ads1_1" style="clear:both;width:980px; padding:0 0 0 0; margin:0 auto;display:none"><a onclick="return tracead('www_index_banner_1');" href="//huodong2.4399.com/comm/flzxpc/?hdid=1"><img alt="????????????????" src="//imga1.5054399.com/upload_pic/2023/1/10/4399_09141464269.jpg"></a></div><script type="text/javascript">
+
+document.getElementById("ads1_1").style.display = "block";
+
+</script>
+
+<div class="middle_1"><!--class="mi_2"-->
+
+<a class="for_phone" href="//www.4399.cn/" onclick="return tracead('www_hot_1');">????</a>
+
+<ul class="mi_ul">
+
+<li><a href="//a.4399.cn/game-id-183610.html" onclick="return tracead('www_hot_2');"><em><img src="//imga2.5054399.com/upload_pic/2023/2/7/4399_17181532334.jpg" /></em>????</a></li>
+
+<li><a href="//a.4399.cn/game-id-183610.html" onclick="return tracead('www_hot_3');"><em><img src="//imga2.5054399.com/upload_pic/2023/2/3/4399_15332636688.jpg" /></em>?°×?????</a></li>
+
+<li><a href="//a.4399.cn/game-id-123841.html" onclick="return tracead('www_hot_4');"><em><img src="//imga3.5054399.com/upload_pic/2023/1/19/4399_17431335314.jpg" /></em>???ü????????</a></li>
+
+<li><a href="//a.4399.cn/game-id-141546.html" onclick="return tracead('www_hot_6');"><em><img src="//imga1.5054399.com/upload_pic/2023/1/18/4399_15324451999.jpg" /></em>????</a></li>
+
+</ul>
+
+<div class="idesk" style="width:auto;">
+
+<a href="//a.4399.cn/" class="i_a1">°?×????ú???·?ó??</a>
+
+<!-- <a href="//hebi.4399.cn/" class="i_a2">×??????????·</a> -->
+
+</div>
+
+</div>
+
+<div class="middle_2">
+
+	<div class="mi_d1">
+
+		<div class="mi-lr">
+
+			<a class="mi_tit" href="//huodong.4399.com/yizhou/">×¨??</a>
+
+			<div class="mi_d"><span><a href="/pcgame/" class="fb6">????????</a></span><span><a href="/theme/">?÷?????·</a></span><span><a href="/flash/">×??????·</a></span><span><a href="/special/1.htm" class="fb6"><b>?????????·</b></a></span><span><a href="/special/148.htm">????°?</a></span><span><a href="/special/219.htm" class="fb6">????</a></span><span><a href="/special/241.htm">±ù????</a></span><span><a href="/special/225.htm" class="fb6">????</a></span></div>
+
+		</div>
+
+		<div class="mi-lr">
+
+			<a class="mi_tit" href="/flash_fl/13_1.htm">?ù??</a>
+
+			<div class="mi_d"><span><a href="/special/232.htm">??????</a></span><span><a href="/special/286.htm">???í±??ò</a></span><span><a href="/special/17.htm">???à±?±?</a></span><span><a href="/special/293.htm">×é×°???·</a></span><span><a href="/special/182.htm">????</a></span><span><a href="/special/202.htm">?§?°</a></span><span><a href="/special/252.htm">????</a></span><span><a href="/special/269.htm">???í??</a></span></div>
+
+		</div>
+
+	</div>
+
+	<div class="mi_d2">
+
+		 <div class="mi-lr">
+
+			<a class="mi_tit" href="/flash_fl/2_1.htm">??×÷</a>
+
+			<div class="mi_d"><span><a href="/special/13.htm">???·</a></span><span><a href="/special/242.htm">????</a></span><span><a href="/special/270.htm">???ú???·</a></span><span><a href="/special/33.htm">???ú</a></span><span><a href="/special/258.htm" class="fb6">??·ò</a></span><span><a href="/special/95.htm">±???????</a></span><span><a href="/special/136.htm">??????</a></span><span><a href="/special/224.htm">?÷????</a></span><span><a href="/special/235.htm">?ú?÷??</a></span></div>
+
+		  </div>
+
+		  <div class="mi-lr">
+
+			<a class="mi_tit" href="/flash_fl/4_1.htm">???÷</a>
+
+			<div class="mi_d"><span><a href="/special/238.htm">????·???</a></span><span><a href="/special/208.htm">???÷??</a></span><span><a href="/special/10.htm">·???????</a></span><span><a href="/special/126.htm">?ó??</a></span><span><a href="/special/16.htm">???·?ú</a></span><span><a href="/special/128.htm">????±?</a></span><span><a href="/special/29.htm">????</a></span><span><a href="/special/121.htm">????????</a></span></div>
+
+		</div>
+
+	</div>
+
+	<div class="mi_d1">
+
+		<div class="mi-lr">
+
+			<a class="mi_tit" href="/flash_fl/5_1.htm">????</a>
+
+			<div class="mi_d"><span><a href="/special/8.htm" class="fb6"><b>??????</b></a></span><span><a href="/special/212.htm">????</a></span><span><a href="/special/173.htm">????</a></span><span><a href="/special/63.htm">????</a></span><span><a href="/special/98.htm">?ó????</a></span><span><a href="/special/60.htm">????</a></span><span><a href="/special/59.htm" class="fb6">??·?</a></span><span><a href="/special/168.htm">?????÷</a></span><span><a href="/special/87.htm">?é??</a></span><span><a href="/special/218.htm">??????</a></span></div>
+
+		</div>
+
+		<div class="mi-lr">
+
+			<a class="mi_tit" href="/flash_fl/12_1.htm">????</a>
+
+			<div class="mi_d"><span><a href="/special/143.htm" class="fb6">?·???÷</a></span><span><a href="/special/66.htm">×??ê</a></span><span><a href="/special/34.htm">?????ó?¤</a></span><span><a href="/special/64.htm">??????</a></span><span><a href="/special/79.htm">??????</a></span><span><a href="/special/62.htm">?????ú</a></span><span><a href="/special/125.htm">?±???ú</a></span><span><a href="/special/152.htm">????</a></span><span><a href="/special/71.htm">?????÷</a></span></div>
+
+		</div>
+
+	</div>
+
+	<div class="mi_d2">
+
+		 <div class="mi-lr">
+
+			<a class="mi_tit" href="/flash_fl/3_1.htm">????</a>
+
+			<div class="mi_d"><span><a href="/special/28.htm">?ü??</a></span><span><a href="/special/96.htm">?¨????</a></span><span><a href="/special/164.htm">???°??</a></span><span><a href="/special/37.htm">×?????</a></span><span><a href="/special/167.htm">????</a></span><span><a href="/special/100.htm">????</a></span><span><a href="/special/35.htm">???ò</a></span><span><a href="/special/38.htm" class="fb6"><b>×??ò</b></a></span><span><a href="/special/118.htm">??????</a></span><span><a href="/special/31.htm">?¨?ò</a></span></div>
+
+		  </div>
+
+		  <div class="mi-lr">
+
+			<a class="mi_tit" href="/flash_fl/6_1.htm">?°??</a>
+
+			<div class="mi_d"><span><a href="/special/172.htm">????????</a></span><span><a href="/special/93.htm" class="fb6">?ó????????</a></span><span><a href="/special/277.htm">???????·</a></span><span><a href="/special/89.htm">?°????</a></span><span><a href="/special/120.htm">????</a></span><span><a href="/special/259.htm">???á</a></span><span><a href="/special/124.htm">????</a></span><span><a href="/special/90.htm" class="fb6">????</a></span><span><a href="/special/260.htm">3D???·</a></span></div>
+
+		</div>
+
+	</div>
+
+	<div class="mi_d1">
+
+		<a class="mi_tit" href="/special/195.htm">???ú</a>
+
+		<div class="mi_g"><span><a href="/special/23.htm">°?sue</a></span><span><a href="//zuopin.4399.com/tyq/">????</a></span><span><a href="/special/255.htm">??????</a></span><span><a href="/special/169.htm">???÷</a></span><span><a href="/special/204.htm">???ú??×°</a></span><span><a href="/special/7.htm">×?·?</a></span><span><a href="/special/254.htm">???é</a></span><span><a href="/special/94.htm">??×±</a></span><span><a href="/special/27.htm">???×</a></span><span><a href="/special/105.htm">?é??</a></span><span><a href="/special/154.htm">??·?</a></span><span><a href="/special/112.htm">???ü</a></span><span><a href="/special/108.htm">?°??</a></span><span><a href="/special/106.htm">??·?</a></span><span><a href="/special/107.htm">????</a></span><span><a href="/special/109.htm">?è??</a></span><span><a href="/special/103.htm">????</a></span><span><a href="/special/114.htm">°?±?</a></span><span><a href="/special/171.htm">??×÷</a></span><span><a href="/special/263.htm">????</a></span><span><a href="/special/153.htm">±?±?</a></span><span><a href="/special/115.htm">?±??</a></span><span><a href="/special/110.htm">?ò?¤????</a></span></div>
+
+	</div>
+
+	<div class="mi_d2">
+
+		<a class="mi_tit" href="/special/good.htm">????</a>
+
+		<div class="mi_g">
+
+			<div class="caro" id="s1"><ul><li><a onclick="return tracead('www_index_txt_1');" href='/flash/230769.htm'>4399?×?????? ÷è÷?·è?????§?????ê</a></li><li><a onclick="return tracead('www_index_txt_2');" href='//my.4399.com/yxdcz/'>4399?ó???÷ ?á?¨?§?ü???????ù·?</a></li><li><a onclick="return tracead('www_index_txt_3');" href='/flash/58079.htm'>4399???§???ì ????·??????ú??????</a></li><li><a onclick="return tracead('www_index_txt_4');" href='//my.4399.com/yxsgkd/'>4399???ú?ì?ò ???????ú??????????</a></li></ul></div><span><a href="//my.4399.com/yxbzsc/" class="fb6">°???????</a></span><span><a href="http://news.4399.com/ytzg/">????????</a></span><span><a href="/flash/218874.htm" class="fb6">????°??÷</a></span><span><a href="/flash/212588.htm">?§????2</a></span><span><a href="http://news.4399.com/aoqi/" class="fb6"><b>°???????</b></a></span><span><a href="https://my.4399.com/yxxtkzw/">?ì?????è</a></span><span><a href="//my.4399.com/yxqjz/">???ú??????</a></span><span><a href="https://news.4399.com/pikatang/" class="fb6"><b>?¤?¨??</b></a></span><span><a href="//my.4399.com/yxxmxz/">??????</a></span><span><a href="//my.4399.com/yxssjj2/" class="fb6"><b>?ú?????÷2</b></a></span><span><a href="/flash/58079.htm">???§???ì</a></span>		</div>
+
+	</div>
+
+	<div class="mi_d3">
+
+		<a class="more" href="//web.4399.com/">?ü?à&gt;&gt;</a>
+
+		<a class="game_w" href="//web.4399.com/">???????·</a>
+
+		<div class="mi_web"><span><a href="http://news.4399.com/qiu/" class="f38">?????ò</a></span><span><a href="//my.4399.com/yxsgkd/" class="f38">???ú?ì?ò</a></span><span><a href="/flash/12439.htm" class="f38">??????</a></span><span><a href="https://ssjj.4399.com/" class="fb6"><b>?ú?????÷</b></a></span><span><a href="//my.4399.com/yxqgzn/" class="f38">???ú????</a></span><span><a href="//my.4399.com/yxtouch/" class="fb6">Touch????</a></span><span><a href="https://my.4399.com/yxmsdzls/" class="f38">?????ó?????ó</a></span><span><a href="https://news.4399.com/hxjy/" class="fb6"><b>????????</b></a></span><span><a href="http://news.4399.com/aoyazhiguang/" class="f38">°???????</a></span><span><a href="/flash/27924.htm" class="f38">???¨??</a></span><span><a href="/flash/35538.htm" class="fb6">°?????</a></span><span><a href="//my.4399.com/yxxqh/" class="f38">???ê</a></span><span><a href="https://my.4399.com/yxsgs/" class="fb6">???ú?±</a></span><span><a href="/flash/228701.htm" class="f38">???ì??</a></span><span><a href="/flash/230769.htm" class="f38">?×??????</a></span></div>
+
+	</div>
+
+	<div class="mi_d2">
+
+		<a class="more" href="//h.4399.com/">?ü?à&gt;&gt;</a>
+
+		<a class="h5_w" href="//h.4399.com/">H5???·</a>
+
+		<div class="mi_g"><span><a href="/flash/230804.htm" class="f38">????????</a></span><span><a href="/flash/228586.htm" class="f38">????·???</a></span><span><a href="/flash/228962.htm" class="f38">·?????????</a></span><span><a href="/flash/230894.htm" class="f38">á?·????ü×??ò</a></span><span><a href="/flash/225563.htm" class="f38">???¨???ò</a></span><span><a href="/flash/228100.htm" class="f38">·?????????</a></span><span><a href="/flash/224122.htm" class="f38">???ú?±H5</a></span><span><a href="/flash/218905.htm" class="f38">??????</a></span><span><a href="/flash/204765.htm" class="f38">±?×???????</a></span><span><a href="/flash/206041.htm" class="f38">???????é?ò</a></span><span><a href="/flash/201130.htm" class="f38">í?í????ú</a></span><span><a href="/flash/203569.htm" class="f38">?·???ó??</a></span><span><a href="/flash/208914.htm" class="f38">?à??·±????</a></span></div>
+
+	</div>
+
+</div>
+
+<div class="p-forum">
+
+	<a class="p-ico" href="/special/19.htm"></a>
+
+	<a href="/flash/215941.htm" class="f38">???????é??±í</a><a href="/flash/229830.htm" class="f38">?§??????</a><a href="/flash/223159.htm" class="fb6">???ü?ì????</a><a href="//my.4399.com/yxsgqyz/" class="f38">???ú??????</a><a href="//my.4399.com/yxwzzx/" class="f38">????????2</a><a href="//my.4399.com/yxsj/" class="f38">????</a><a href="/flash/211788.htm" class="fb6">???????é</a><a href="/flash/211817.htm" class="f38">?????×??</a><a href="https://my.4399.com/yxdldl3d/" class="fb6">???ú????</a><a href="//my.4399.com/yxxxtjd/">???????÷??</a><a href="http://news.4399.com/300/">300????</a><a href="http://news.4399.com/zdlm/" class="fb6">????????</a><a href="http://news.4399.com/dftk/">á?·?????</a><a href="http://news.4399.com/bhsrd/">±???3</a></div>
+
+<div class="bgbox">
+
+<!--???????????·-->
+
+<div class="iptg" id="myhistory" style="display:none">
+
+<div class="ip_game"><a href="//my.4399.com/shoucang/?m=PlayLog">????????</a></div>
+
+<div id="hscontent"></div>
+
+<div id="hsb" style="display:none;">
+
+<div class="hsl_n" id="hsl"></div>
+
+<div class="hsr_y" id="hsr"></div>
+
+</div>
+
+<a class="empty" target="_self" href="javascript:hsClear()">????</a>
+
+<em class="mask"></em>
+
+</div>
+
+<!--?????????·?á??-->
+
+
+
+<!--???????????·-->
+
+<div class="rollgame">
+
+	<a class="g_le" href="#" target="_self" id="mleft" onclick="return false;"></a>
+
+    <div class="game_box" id="gamesdiv">
+
+    	<ul class="g_list">
+
+				<li><a onclick="return tracead('www_index_gundong_1_01');"  href="/flash/21674.htm"><img src="//imga5.5054399.com/upload_pic/2014/5/15/4399_17081743871.jpg" alt="?????°??2????°?">?????°??2????°?</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_02');"  href="/special/28.htm"><img src="//imga5.5054399.com/upload_pic/2016/9/14/4399_15081493016.jpg" alt="?ü??">?ü??</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_03');"  href="/flash/18012.htm"><img src="//imga.5054399.com/upload_pic/2017/5/11/4399_10520731217.jpg" alt="?????ó??????">?????ó??????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_04');"  href="http://news.4399.com/czymf/"><img src="//imga5.5054399.com/upload_pic/2023/1/12/4399_18261764805.jpg" alt="???ì???§·¨">???ì???§·¨</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_05');"  href="https://my.4399.com/yxsgs/"><img src="//imga3.5054399.com/upload_pic/2022/3/18/4399_18070432826.jpg" alt="4399???ú?±">4399???ú?±</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_06');"  href="https://ssjj.4399.com/"><img src="//imga3.5054399.com/upload_pic/2022/12/1/4399_10284503841.gif" alt="?ú?????÷">?ú?????÷</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_07');"  href="http://news.4399.com/aoyazhiguang/"><img src="//imga.5054399.com/upload_pic/2021/12/30/4399_14172193097.jpg" alt="°???????">°???????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_08');"  href="//xp.4399.com/"><img src="//imga3.5054399.com/upload_pic/2023/1/20/4399_12351294643.jpg" alt="?÷???ó??">?÷???ó??</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_09');"  href="/flash/35538.htm"><img src="//imga4.5054399.com/upload_pic/2023/1/19/4399_15571933771.jpg" alt="4399°?????">4399°?????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_10');"  href="/flash/10379.htm"><img src="//imga3.5054399.com/upload_pic/2022/11/25/4399_15390824527.jpg" alt="4399°?±???">4399°?±???</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_11');"  href="https://my.4399.com/yxmsdzls/"><img src="//imga3.5054399.com/upload_pic/2023/1/13/4399_11275512808.jpg" alt="?????ó?????ó">?????ó?????ó</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_12');"  href="/flash/seer.htm"><img src="//imga.5054399.com/upload_pic/2022/7/6/4399_10303289537.jpg" alt="4399?ü????">4399?ü????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_13');"  href="/flash/"><img name="//imga4.5054399.com/upload_pic/2016/8/3/4399_17071810028.jpg" alt="×????????·??">×????????·??</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_14');"  href="/special/110.htm"><img name="//imga4.5054399.com/upload_pic/2018/3/5/4399_15464863079.jpg" alt="?ò?¤????">?ò?¤????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_15');"  href="/special/293.htm"><img name="//imga.5054399.com/upload_pic/2016/5/11/4399_14110351806.jpg" alt="×é×°">×é×°</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_16');"  href="/special/7.htm"><img name="//imga1.5054399.com/upload_pic/2018/3/13/4399_15535036594.jpg" alt="×?·?">×?·?</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_17');"  href="/special/242.htm"><img name="//imga2.5054399.com/upload_pic/2016/9/7/4399_08003428970.jpg" alt="????">????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_18');"  href="/special/259.htm"><img name="//imga5.5054399.com/upload_pic/2014/5/15/4399_17205402847.jpg" alt="???á">???á</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_19');"  href="//h.4399.com/"><img name="//imga2.5054399.com/upload_pic/2021/2/24/4399_08570378043.jpg" alt="4399??????">4399??????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_20');"  href="/special/167.htm"><img name="//imga5.5054399.com/upload_pic/2021/11/9/4399_15324458100.jpg" alt="????">????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_21');"  href="/special/29.htm"><img name="//imga1.5054399.com/upload_pic/2021/12/7/4399_17200203636.jpg" alt="????">????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_22');"  href="/special/56.htm"><img name="//imga3.5054399.com/upload_pic/2020/4/23/4399_14285123820.jpg" alt="?°??">?°??</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_23');"  href="/special/31.htm"><img name="//imga2.5054399.com/upload_pic/2017/2/25/4399_16171029957.jpg" alt="?¨?ò">?¨?ò</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_1_24');"  href="/special/164.htm"><img name="//imga3.5054399.com/upload_pic/2021/11/30/4399_09194770386.jpg" alt="???°??">???°??</a></li>
+
+				</ul>
+
+		<ul class="g_list">
+
+				<li><a onclick="return tracead('www_index_gundong_2_01');"  href="/special/148.htm"><img src="//imga3.5054399.com/upload_pic/2019/2/2/4399_11351875862.jpg" alt="????°?">????°?</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_02');"  href="/flash/27924.htm"><img src="//imga5.5054399.com/upload_pic/2023/1/16/4399_16122355160.jpg" alt="???¨??">???¨??</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_03');"  href="http://news.4399.com/yssy/"><img src="//imga1.5054399.com/upload_pic/2022/12/6/4399_14391919711.jpg" alt="????">????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_04');"  href="http://news.4399.com/wdshijie/"><img src="//imga2.5054399.com/upload_pic/2022/1/28/4399_10171295850.jpg" alt="????????">????????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_05');"  href="/special/90.htm"><img src="//imga2.5054399.com/upload_pic/2018/9/28/4399_15343045347.jpg" alt="????">????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_06');"  href="http://news.4399.com/taopao/"><img src="//imga2.5054399.com/upload_pic/2022/9/20/4399_14371669890.jpg" alt="????°??????ê">????°??????ê</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_07');"  href="http://news.4399.com/mnsj/"><img src="//imga.5054399.com/upload_pic/2023/1/11/4399_17073327522.jpg" alt="4399????????">4399????????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_08');"  href="/flash/203569.htm"><img src="//imga.5054399.com/upload_pic/2022/5/9/4399_11570165433.jpg" alt="?·???ó??">?·???ó??</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_09');"  href="https://news.4399.com/pikatang/"><img src="//imga4.5054399.com/upload_pic/2023/1/16/4399_10382876093.jpg" alt="?¤?¨????????">?¤?¨????????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_10');"  href="/flash/32979.htm"><img src="//imga5.5054399.com/upload_pic/2014/5/15/4399_17502294860.jpg" alt="4399???????ú">4399???????ú</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_11');"  href="http://news.4399.com/aoqi/"><img src="//imga5.5054399.com/upload_pic/2023/1/19/4399_15570198696.jpg" alt="4399°???????">4399°???????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_12');"  href="//my.4399.com/yxsgqyz/"><img src="//imga3.5054399.com/upload_pic/2021/12/14/4399_16090221977.jpg" alt="???ú??????">???ú??????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_13');"  href="/special/59.htm"><img name="//imga5.5054399.com/upload_pic/2016/10/9/4399_13402210098.jpg" alt="??·????·">??·????·</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_14');"  href="/special/195.htm"><img name="//imga.5054399.com/upload_pic/2016/7/29/4399_14303296764.jpg" alt="???ú???·????">???ú???·????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_15');"  href="/special/219.htm"><img name="//imga3.5054399.com/upload_pic/2014/5/15/4399_17551661404.jpg" alt="????">????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_16');"  href="http://news.4399.com/bhsrd/"><img name="//imga2.5054399.com/upload_pic/2021/7/13/4399_15523010860.jpg" alt="±???3">±???3</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_17');"  href="/special/260.htm"><img name="//imga3.5054399.com/upload_pic/2018/9/28/4399_15042504999.jpg" alt="3D???·">3D???·</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_18');"  href="/special/13.htm"><img name="//imga5.5054399.com/upload_pic/2018/12/7/4399_10110779970.jpg" alt="???·">???·</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_19');"  href="/flash/48399.htm"><img name="//imga5.5054399.com/upload_pic/2017/9/6/4399_08405919324.jpg" alt="?¨???÷??">?¨???÷??</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_20');"  href="/special/270.htm"><img name="//imga1.5054399.com/upload_pic/2016/8/3/4399_17073666938.jpg" alt="???ú???·????">???ú???·????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_21');"  href="//app.4399.cn/cloudGame.html"><img name="//imga2.5054399.com/upload_pic/2022/11/4/4399_16272843493.jpg" alt="?????·">?????·</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_22');"  href="https://news.4399.com/hxjy/"><img name="//imga5.5054399.com/upload_pic/2016/6/16/4399_18004103803.jpg" alt="????????">????????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_23');"  href="/special/136.htm"><img name="//imga4.5054399.com/upload_pic/2017/1/14/4399_15424675974.jpg" alt="??????">??????</a></li>
+
+				<li><a onclick="return tracead('www_index_gundong_2_24');"  href="//lds.4399.com/"><img name="//imga1.5054399.com/upload_pic/2017/10/20/4399_10035447416.jpg" alt="?ú?·??">?ú?·??</a></li>
+
+				</ul>
+
+    </div>
+
+    <a class="g_ri" href="#" target="_self" id="mright" onclick="return false;"></a>
+
+</div>
+
+<!--???????????·end-->
+
+</div>
+
+
+
+<!--???????????·?á??-->
+
+<div class="middle_3 cf">
+
+    <div class="box_c">
+
+        <div class="tm_fun h_3">
+
+            <div class="tm_tit">
+
+                <span class="tit_ico1"></span>
+
+                <a class="tit_a" href="/flash/gamehw.htm">×????????????·??±í</a>
+
+                <a class="more_1" href="/flash/gamehw.htm"></a>
+
+                <div class="tm_upd"><a href="/flash/"><span class="new_ico"></span>???????ü???????·&nbsp;<span>10</span>&nbsp;??</a>&nbsp;|&nbsp;<a target="_self" href="" onclick="GoToBestPosition('newtj',32);return false;">×??????????·</a>&nbsp;|&nbsp;</div>
+
+            </div>
+
+            <ul class="tm_list">
+
+                				<li><a  onclick="my_trace(1000286);return true;"  href="/flash/232058.htm"><span class="new"></span><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/17/4399_19351964069.jpg" alt="?ì??????3D" />?ì??????3D</a></li>
+
+								<li><a  onclick="my_trace(1000287);return true;"  href="/flash/232009.htm"><span class="new"></span><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/16/4399_16015762458.jpg" alt="?§???????ú2°?±??×??×???" />?§???????ú2°?±??×??×???</a></li>
+
+								<li><a  onclick="my_trace(1000288);return true;"  href="/flash/231223.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/12/1/4399_13541693718.jpg" alt="±??¤??×?????????" />±??¤??×?????????</a></li>
+
+								<li><a  onclick="my_trace(1000289);return true;"  href="/flash/231752.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/12/28/4399_16034214081.jpg" alt="????????" />????????</a></li>
+
+								<li><a  onclick="my_trace(1000290);return true;"  href="https://news.4399.com/hxjy/"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/11/4399_14150301253.jpg" alt="4399????????" />4399????????</a></li>
+
+								<li><a  onclick="my_trace(1000291);return true;"  href="/flash/130396.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2023/2/6/4399_15003914697.jpg" alt="±??????÷" />±??????÷</a></li>
+
+								<li><a  onclick="my_trace(1000292);return true;"  href="//www.4399.com/flash/zmhj.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/5/31/4399_20182326706.jpg" alt="?ì???÷??online" />?ì???÷??online</a></li>
+
+								<li><a  onclick="my_trace(1000293);return true;"  href="/flash/210650.htm"><span class="hot"></span><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2023/2/8/4399_14061957905.jpg" alt="?ì??????" />?ì??????</a></li>
+
+								<li><a  onclick="my_trace(1000294);return true;"  href="//www.3000.com/work/93044.html"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/12/14/4399_15295289217.jpg" alt="????????" />????????</a></li>
+
+								<li><a  onclick="my_trace(1000295);return true;"  href="/flash/227179.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/18/4399_17271505697.jpg" alt="°???????" />°???????</a></li>
+
+								<li><a  onclick="my_trace(1000296);return true;"  href="/flash/231229.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/12/1/4399_14490445220.jpg" alt="·?????????????±?" />·?????????????±?</a></li>
+
+								<li><a  onclick="my_trace(1000297);return true;"  href="/flash/205551.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/4/23/4399_09595943507.jpg" alt="????VS???°3.3" />????VS???°3.3</a></li>
+
+								<li><a  onclick="my_trace(1000298);return true;"  href="http://news.4399.com/yssy/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/11/1/4399_14191993219.jpg" alt="????" />????</a></li>
+
+								<li><a  onclick="my_trace(1000299);return true;"  href="http://news.4399.com/qiu/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/2/8/4399_10375681866.jpg" alt="?????ò" />?????ò</a></li>
+
+								<li><a  onclick="my_trace(1000300);return true;"  href="https://my.4399.com/yxmsdzls/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/1/13/4399_11253364934.jpg" alt="?????ó?????ó" />?????ó?????ó</a></li>
+
+								<li><a  onclick="my_trace(1000301);return true;"  href="/flash/198637.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/1/17/4399_14052037977.jpg" alt="???????¤????2H5" />???????¤????2H5</a></li>
+
+								<li><a  onclick="my_trace(1000302);return true;"  href="//www.3000.com/work/118904.html"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/9/21/4399_13352294854.jpg" alt="???????ú?±???÷2" />???????ú?±???÷2</a></li>
+
+								<li><a  onclick="my_trace(1000303);return true;"  href="/flash/231730.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/12/27/4399_15482144081.jpg" alt="????????3" />????????3</a></li>
+
+								<li><a  onclick="my_trace(1000304);return true;"  href="/flash/223745.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/11/17/4399_09480196660.jpg" alt="±ù????????6" />±ù????????6</a></li>
+
+								<li><a  onclick="my_trace(1000305);return true;"  href="//gamer.qq.com/v2/cloudgame/game/95199?ichannel=43990F4399&hide=2"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/11/28/4399_09265828700.jpg" alt="???°????" />???°????</a></li>
+
+								<li><a  onclick="my_trace(1000306);return true;"  href="//my.4399.com/yxxxtjd/"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/6/24/4399_10470602028.jpg" alt="4399???????÷??" />4399???????÷??</a></li>
+
+								<li><a  href="/flash/223159.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/23/4399_15020137763.jpg" alt="???ü?ì????" />???ü?ì????</a></li>
+
+								<li><a  href="/flash/227465.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/11/18/4399_16233125537.jpg" alt="?ì???ó???·" />?ì???ó???·</a></li>
+
+								<li><a  href="//my.4399.com/yxssjj2/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/1/17/4399_10400999336.jpg" alt="?ú?????÷2" />?ú?????÷2</a></li>
+
+								<li><a  href="/flash/231959.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/12/4399_15192050808.jpg" alt="±???????????2" />±???????????2</a></li>
+
+								<li><a  href="/flash/202604.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/s/202604.jpg" alt="·??é????????" />·??é????????</a></li>
+
+								<li><a  href="//sjsj.4399.com/"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/1/26/4399_15363654370.jpg" alt="????????" />????????</a></li>
+
+								<li><a  href="http://news.4399.com/ytzg/"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/20/4399_10063755359.jpg" alt="????????" />????????</a></li>
+
+								<li><a  href="https://my.4399.com/yxsgs/"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/3/18/4399_18063845841.jpg" alt="4399???ú?±" />4399???ú?±</a></li>
+
+								<li><a  href="/flash/230464.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/12/16/4399_17490258624.jpg" alt="????????" />????????</a></li>
+
+								<li><a  href="//www.3000.com/work/72068.html"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/11/1/4399_19192489183.jpg" alt="?ú???¤°???" />?ú???¤°???</a></li>
+
+								<li><a  href="/flash/226730.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2023/1/18/4399_10082802741.jpg" alt="?÷??????" />?÷??????</a></li>
+
+								<li><a  href="/flash/27924.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/16/4399_16113547024.jpg" alt="???¨??" />???¨??</a></li>
+
+								<li><a  href="//www.4399.com/flash/yzzrhj.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/8/16/4399_15391093297.jpg" alt="????????" />????????</a></li>
+
+								<li><a  href="//zuopin.4399.com/tuya/"><span class="hot"></span><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2016/2/29/4399_17484422351.jpg" alt="4399??????°?" />4399??????°?</a></li>
+
+								<li><a  href="/flash/213691.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/11/23/4399_17410589194.jpg" alt="?°????3OL" />?°????3OL</a></li>
+
+								<li><a  href="/flash/198660.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2018/6/21/4399_15211408152.jpg" alt="????VS??????2.0" />????VS??????2.0</a></li>
+
+								<li><a  href="https://news.4399.com/pikatang/"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2023/1/16/4399_10394485352.jpg" alt="?¤?¨????????" />?¤?¨????????</a></li>
+
+								<li><a  href="/flash/231372.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/2/6/4399_17275721214.jpg" alt="?????????ú" />?????????ú</a></li>
+
+								<li><a  href="//www.3000.com/work/111197.html"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/10/13/4399_17391014899.jpg" alt="?ó????±?????" />?ó????±?????</a></li>
+
+								<li><a  href="//my.4399.com/yxtouch/"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/3/22/4399_17110113548.jpg" alt="4399Touch????" />4399Touch????</a></li>
+
+								<li><a  href="/flash/230745.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/11/8/4399_15212737520.jpg" alt="???????ò?????ò3H5" />???????ò?????ò3H5</a></li>
+
+								<li><a  href="/flash/209474.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/12/15/4399_14170221749.jpg" alt="????????" />????????</a></li>
+
+								<li><a  href="http://news.4399.com/dftk/"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2020/10/13/4399_17491839567.jpg" alt="4399á?·?????" />4399á?·?????</a></li>
+
+								<li><a  href="/flash/219762.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/2/23/4399_09570024059.jpg" alt="?????ó???ú" />?????ó???ú</a></li>
+
+								<li><a  href="/flash/212136.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2020/3/27/4399_10184820221.jpg" alt="??????????" />??????????</a></li>
+
+								<li><a  href="/flash/196855.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2019/s/196855.jpg" alt="??°???????7" />??°???????7</a></li>
+
+								<li><a  href="//www.3000.com/work/116694.html"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/10/13/4399_17432889047.jpg" alt="?????????????ü" />?????????????ü</a></li>
+
+								<li><a  href="/flash/93551.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2017/1/24/4399_10181217218.jpg" alt="???ù??°????è????°?" />???ù??°????è????°?</a></li>
+
+								<li><a  href="/flash/220014.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/7/8/4399_14140212587.jpg" alt="??????????????" />??????????????</a></li>
+
+								<li><a  href="/flash/209994.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/12/4/4399_17372187246.jpg" alt="?????ò?ò" />?????ò?ò</a></li>
+
+								<li><a  href="/flash/221592.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/7/29/4399_15455520563.jpg" alt="?è?è°?????????????2" />?è?è°?????????????2</a></li>
+
+								<li><a  href="/flash/231941.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2023/1/11/4399_15000781746.jpg" alt="???????ú??" />???????ú??</a></li>
+
+								<li><a  href="/flash/222735.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/9/23/4399_16215646155.jpg" alt="???ú?????????÷" />???ú?????????÷</a></li>
+
+								<li><a  href="/flash/219950.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/5/11/4399_18584125721.jpg" alt="????????" />????????</a></li>
+
+								<li><a  href="/flash/201312.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2019/s/201312.jpg" alt="??????????????" />??????????????</a></li>
+
+								<li><a  href="/flash/226028.htm"><span class="hot"></span><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/3/14/4399_19151864673.jpg" alt="?????????÷" />?????????÷</a></li>
+
+								<li><a  href="/flash/214699.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/16/4399_14405263596.jpg" alt="???????¤????" />???????¤????</a></li>
+
+								<li><a  href="/flash/228263.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/7/6/4399_15535607954.jpg" alt="???ú????" />???ú????</a></li>
+
+								<li><a  href="/flash/222151.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/12/1/4399_11365034794.jpg" alt="????????5V5" />????????5V5</a></li>
+
+								<li><a  href="/flash/220634.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/6/16/4399_17313266730.jpg" alt="?????????°????" />?????????°????</a></li>
+
+								<li><a  href="/flash/223865.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/11/19/4399_14202213081.jpg" alt="?ó?ú100?ì" />?ó?ú100?ì</a></li>
+
+								<li><a  href="/flash/222387.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/9/6/4399_13580386105.jpg" alt="????????" />????????</a></li>
+
+								<li><a  href="/flash/209443.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/2/8/4399_09380123172.jpg" alt="????????" />????????</a></li>
+
+								<li><a  href="/flash/230811.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/11/10/4399_17214955926.jpg" alt="?¨??°?H5" />?¨??°?H5</a></li>
+
+								<li><a  href="/flash/188593.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/30/4399_15470325272.jpg" alt="???ì????" />???ì????</a></li>
+
+								<li><a  href="/flash/231814.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/4/4399_11355507638.jpg" alt="???á??×???????" />???á??×???????</a></li>
+
+								<li><a  href="/flash/229416.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/8/31/4399_14190530737.jpg" alt="?ì?ì??????" />?ì?ì??????</a></li>
+
+								<li><a  href="//my.4399.com/yxtk/"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/5/4399_10354837646.jpg" alt="3D????" />3D????</a></li>
+
+								<li><a  href="/flash/227718.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/8/11/4399_09573099408.jpg" alt="?°??????????" />?°??????????</a></li>
+
+								<li><a  href="/flash/188739.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2017/6/13/4399_15192770466.jpg" alt="?±??±????ú" />?±??±????ú</a></li>
+
+								<li><a  href="/flash/227074.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/5/7/4399_15213405927.jpg" alt="???ì??????" />???ì??????</a></li>
+
+								<li><a  href="/flash/229984.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/9/27/4399_19532930582.jpg" alt="??×????ù" />??×????ù</a></li>
+
+								<li><a  href="/flash/231613.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/12/21/4399_11383825731.jpg" alt="±??????ú" />±??????ú</a></li>
+
+								<li><a  href="/flash/229603.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/9/8/4399_16595172159.jpg" alt="??????±?×§" />??????±?×§</a></li>
+
+								<li><a  href="/flash/228618.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/7/22/4399_16201108800.jpg" alt="±?????·ò" />±?????·ò</a></li>
+
+								<li><a  href="/flash/224967.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/2/18/4399_10583338690.jpg" alt="????????±?" />????????±?</a></li>
+
+								<li><a  href="/flash/43841.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/3/26/4399_16554656111.jpg" alt="???????·" />???????·</a></li>
+
+								<li><a  href="/flash/55146.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/2/12/4399_14282141322.jpg" alt="?ú??????" />?ú??????</a></li>
+
+								<li><a  href="/flash/229249.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/9/26/4399_13534205916.jpg" alt="?????????ê" />?????????ê</a></li>
+
+								<li><a  href="/flash/225691.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/2/24/4399_09511673361.jpg" alt="?????????÷????3" />?????????÷????3</a></li>
+
+								<li><a  href="/flash/226458.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/4/2/4399_16373769252.jpg" alt="??±????ù" />??±????ù</a></li>
+
+								<li><a  href="/flash/212227.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/3/31/4399_15112251926.jpg" alt="?ì???????°??H5" />?ì???????°??H5</a></li>
+
+								<li><a  href="/flash/73386.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2016/2/25/4399_09264656496.jpg" alt="?ì????????3" />?ì????????3</a></li>
+
+								<li><a  href="/flash/225044.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/1/19/4399_11374638283.jpg" alt="????????4.6" />????????4.6</a></li>
+
+								<li><a  href="/flash/226444.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/18/4399_14102190575.jpg" alt="???ú??????" />???ú??????</a></li>
+
+								<li><a  href="/flash/212767.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/2/3/4399_15125506077.jpg" alt="????????:±???????" />????????:±???????</a></li>
+
+								<li><a  href="/flash/231562.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/12/16/4399_19281307115.jpg" alt="??????°?????" />??????°?????</a></li>
+
+								<li><a  href="/flash/222591.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/9/15/4399_15345912053.jpg" alt="?????ó?ú????" />?????ó?ú????</a></li>
+
+								<li><a  href="/flash/218281.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/2/7/4399_17034504461.jpg" alt="???????°vs?????·" />???????°vs?????·</a></li>
+
+								<li><a  href="/flash/79068.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2016/2/25/4399_09265948256.jpg" alt="????±???3????°?" />????±???3????°?</a></li>
+
+								<li><a  href="/flash/180977.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2016/10/12/4399_16360751958.jpg" alt="????????????3D" />????????????3D</a></li>
+
+								<li><a  href="/flash/215808.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/9/23/4399_17304218418.jpg" alt="???????????????ü" />???????????????ü</a></li>
+
+								<li><a  href="/flash/225012.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/1/14/4399_14492878754.jpg" alt="?????????÷" />?????????÷</a></li>
+
+								<li><a  href="/flash/226178.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/3/22/4399_16334164478.jpg" alt="?????????????ü" />?????????????ü</a></li>
+
+								<li><a  href="/flash/201721.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/s/201721.jpg" alt="???ò?é??" />???ò?é??</a></li>
+
+								<li><a  href="/flash/196181.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/s/196181.jpg" alt="??????????±ê?ü" />??????????±ê?ü</a></li>
+
+								<li><a  href="/flash/210711.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2020/1/10/4399_15342250960.jpg" alt="????????×?2" />????????×?2</a></li>
+
+								<li><a  href="/flash/232130.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2023/1/28/4399_15253008891.jpg" alt="???ú?ó??????h5" />???ú?ó??????h5</a></li>
+
+								<li><a  href="/flash/221820.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/8/10/4399_14252967227.jpg" alt="?é???ó?ú??" />?é???ó?ú??</a></li>
+
+								<li><a  href="/flash/221205.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/7/12/4399_17330291306.jpg" alt="?°?????à???ó????" />?°?????à???ó????</a></li>
+
+								<li><a  href="/flash/230924.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/16/4399_16120366157.jpg" alt="??????????" />??????????</a></li>
+
+								<li><a  href="/flash/211107.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/2/11/4399_13521105759.jpg" alt="????????" />????????</a></li>
+
+								<li><a  href="/flash/6232.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2016/2/25/4399_09230286165.jpg" alt="·è?????????·" />·è?????????·</a></li>
+
+								<li><a  href="/flash/198021.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/s/198021.jpg" alt="±ù????????" />±ù????????</a></li>
+
+								<li><a  href="/flash/163478.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2016/2/25/4399_09402752826.jpg" alt="±???????????" />±???????????</a></li>
+
+								<li><a  href="/flash/187040.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2017/6/8/4399_17302352700.jpg" alt="???ù?????ê????°?" />???ù?????ê????°?</a></li>
+
+								<li><a  href="/flash/225954.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/3/10/4399_16160482943.jpg" alt="???ú????????" />???ú????????</a></li>
+
+								<li><a  href="/flash/230746.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/11/8/4399_16035457185.jpg" alt="???????§·¨???÷" />???????§·¨???÷</a></li>
+
+								<li><a  href="/flash/226200.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/12/23/4399_17470230557.jpg" alt="?è???°?ó?°??" />?è???°?ó?°??</a></li>
+
+								<li><a  href="/flash/43689.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2016/2/25/4399_09244586314.jpg" alt="???ü??????" />???ü??????</a></li>
+
+								<li><a  href="/flash/232149.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/28/4399_17581198929.jpg" alt="???????é??2H5" />???????é??2H5</a></li>
+
+								<li><a  href="/flash/48504.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2016/2/25/4399_09251835750.jpg" alt="?????ó??????????°?" />?????ó??????????°?</a></li>
+
+								<li><a  href="/flash/47931.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2016/2/25/4399_09250759645.jpg" alt="???????·???é????????°?" />???????·???é????????°?</a></li>
+
+								<li><a  href="/flash/228747.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/7/28/4399_19215354980.jpg" alt="??????????" />??????????</a></li>
+
+								<li><a  href="/flash/230326.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/10/18/4399_15573269251.jpg" alt="??????VS???°°í" />??????VS???°°í</a></li>
+
+								<li><a  href="/flash/203039.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/s/203039.jpg" alt="???÷????" />???÷????</a></li>
+
+								<li><a  href="/flash/40779.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2016/2/19/4399_14125286462.jpg" alt="3D????ì???" />3D????ì???</a></li>
+
+								<li><a  href="/flash/10305.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2016/2/23/4399_16424729120.jpg" alt="??????×??ü??" />??????×??ü??</a></li>
+
+								<li><a  href="/flash/3883.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2016/2/25/4399_09224740641.jpg" alt="?????ó?¤????°?" />?????ó?¤????°?</a></li>
+
+								<li><a  href="/flash/224460.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/12/17/4399_15021864765.jpg" alt="×°???¨??5H5" />×°???¨??5H5</a></li>
+
+								<li><a  href="/flash/217629.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/1/5/4399_16430401229.jpg" alt="???ù±??????ú?ê" />???ù±??????ú?ê</a></li>
+
+								<li><a  href="/flash/220929.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/7/1/4399_11400215565.jpg" alt="?????????ù???ú2" />?????????ù???ú2</a></li>
+
+								<li><a  href="/flash/225449.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/2/9/4399_19155867127.jpg" alt="????" />????</a></li>
+
+								<li><a  href="/flash/209024.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/10/8/4399_15291685960.jpg" alt="???°ì???6" />???°ì???6</a></li>
+
+								<li><a  href="/flash/100030.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2016/2/25/4399_09283901137.jpg" alt="ì??á??×?????2" />ì??á??×?????2</a></li>
+
+								<li><a  href="/flash/87425.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2016/2/23/4399_16580765716.jpg" alt="???ú??????" />???ú??????</a></li>
+
+								<li><a  href="/flash/210765.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2020/1/14/4399_14181208208.jpg" alt="???·±?????3" />???·±?????3</a></li>
+
+								<li><a  href="/flash/212021.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2020/3/23/4399_13561847731.jpg" alt="?????????????×" />?????????????×</a></li>
+
+								<li><a  href="/flash/227446.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/5/26/4399_15345424257.jpg" alt="??????±???" />??????±???</a></li>
+
+								<li><a  href="/flash/60369.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2016/2/20/4399_16034287109.jpg" alt="??×????÷??????" />??×????÷??????</a></li>
+
+								<li><a  href="/flash/151915.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2017/6/9/4399_08402136521.jpg" alt="?ì???ó??????°?????°?" />?ì???ó??????°?????°?</a></li>
+
+								<li><a  href="/flash/42760.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2016/2/25/4399_09243481100.jpg" alt="???÷????????°?" />???÷????????°?</a></li>
+
+				            </ul>
+
+        </div>
+
+         <div class="tm_fun h_4">
+
+			<a name="new"></a>
+
+            <div class="tm_tit">
+
+                <span class="tit_ico2"></span>
+
+                <a class="tit_a" href="/flash/weekgame.htm">4399???????·</a>
+
+                <a class="more_1" href="/flash/weekgame.htm"></a>
+
+            </div>
+
+            <ul class="tm_list">
+
+                				<li><a href="http://news.4399.com/bhsrd/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/12/21/4399_10370463359.jpg" alt="±???3"/>±???3</a></li>
+
+								<li><a href="http://news.4399.com/tjzs/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/2/6/4399_15235683613.jpg" alt="4399????????"/>4399????????</a></li>
+
+								<li><a href="http://news.4399.com/300/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/9/7/4399_17315837375.jpg" alt="300????"/>300????</a></li>
+
+								<li><a href="http://news.4399.com/zdlm/"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2020/9/16/4399_17074684634.jpg" alt="4399????????"/>4399????????</a></li>
+
+								<li><a href="http://news.4399.com/shikzh/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/2/10/4399_09304055495.jpg" alt="4399?±??????"/>4399?±??????</a></li>
+
+								<li><a href="http://news.4399.com/fyzyx/"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/9/8/4399_11134434294.jpg" alt="4399·?????"/>4399·?????</a></li>
+
+								<li><a href="http://news.4399.com/dfzjyx/"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2018/2/1/4399_11472294501.jpg" alt="4399á?·?????"/>4399á?·?????</a></li>
+
+								<li><a href="//zuopin.4399.com/tuya/"><span class="hot"></span><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2016/2/29/4399_17484422351.jpg" alt="4399??????°?"/>4399??????°?</a></li>
+
+								<li><a href="http://news.4399.com/yhzrpc/"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2020/4/27/4399_14290036180.jpg" alt="4399???ê????"/>4399???ê????</a></li>
+
+								<li><a href="https://my.4399.com/yxsgs/"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/3/18/4399_18063845841.jpg" alt="4399???ú?±"/>4399???ú?±</a></li>
+
+								<li><a href="/flash/132028.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/6/10/4399_17125628656.jpg" alt="×í?????ú????°?"/>×í?????ú????°?</a></li>
+
+								<li><a href="http://news.4399.com/naikuai/"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/10/12/4399_15350919727.jpg" alt="4399???é"/>4399???é</a></li>
+
+								<li><a href="http://news.4399.com/czymf/"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/2/6/4399_15240488346.jpg" alt="???ì???§·¨"/>???ì???§·¨</a></li>
+
+								<li><a href="https://my.4399.com/yxmsdzls/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/1/13/4399_11253364934.jpg" alt="?????ó?????ó"/>?????ó?????ó</a></li>
+
+				            </ul>
+
+        </div>
+
+		<div class="tm_fun h_4">
+
+			<a name="new"></a>
+
+            <div class="tm_tit">
+
+                <span class="tit_ico2"></span>
+
+                <a class="tit_a" href="//h.4399.com/">H5???·????</a>
+
+                <a class="more_1" href="//h.4399.com/"></a>
+
+            </div>
+
+            <ul class="tm_list">
+
+								<li><a href="/flash/231969.htm"><img alt="??????????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/12/4399_18455595848.jpg">??????????????</a></li>
+
+								<li><a href="/flash/230935.htm"><img alt="?·???????¨?°????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2023/2/1/4399_10565473882.jpg">?·???????¨?°????</a></li>
+
+								<li><a href="/flash/230973.htm"><img alt="???????ú?±" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/19/4399_09383629312.jpg">???????ú?±</a></li>
+
+								<li><a href="/flash/230499.htm"><img alt="????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/2/1/4399_14013094471.jpg">????????</a></li>
+
+								<li><a href="/flash/229830.htm"><img alt="?§??????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2023/1/11/4399_16114124877.jpg">?§??????</a></li>
+
+								<li><a href="/flash/211817.htm"><img alt="?????×??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/12/30/4399_16234233285.jpg">?????×??</a></li>
+
+								<li><a href="/flash/201130.htm"><img alt="í?í????ú(í?í??????ú)" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/2/5/4399_10384443747.jpg">í?í????ú(í?í??????ú)</a></li>
+
+								<li><a href="/flash/206041.htm"><img alt="???????é?ò" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/7/1/4399_09482411700.jpg">???????é?ò</a></li>
+
+								<li><a href="/flash/196589.htm"><img alt="??????????????±???" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/2/6/4399_10412478637.jpg">??????????????±???</a></li>
+
+								<li><a href="/flash/205998.htm"><img alt="??±??ó????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/1/7/4399_17105754471.jpg">??±??ó????</a></li>
+
+								<li><a href="/flash/222666.htm"><img alt="?ú?????÷???????°??" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/11/26/4399_10345594499.jpg">?ú?????÷???????°??</a></li>
+
+								<li><a href="/flash/204765.htm"><img alt="±?×???????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/7/20/4399_11384229417.jpg">±?×???????</a></li>
+
+								<li><a href="/flash/208914.htm"><img alt="?à??·±????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/2/6/4399_11050452160.jpg">?à??·±????</a></li>
+
+								<li><a href="/flash/211788.htm"><img alt="???????é" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/8/29/4399_11251452251.jpg">???????é</a></li>
+
+							</ul>
+
+        </div>
+
+
+
+        		<div class="evn_box">
+
+        	<div class="evn_week">
+
+            	<span class="tit_ico4"></span>
+
+								<a class="more_3" href="//huodong.4399.com/yizhou/"></a>
+
+				<a href="//huodong.4399.com/yizhou/">4399±???????</a>
+
+							</div>
+
+            <ul class="evn_ul">
+
+                				<li><a  href="//huodong2.4399.com/comm/flzxpc/?hdid=1"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2023/1/10/4399_09133753788.jpg" alt="?????¤·?????????·???" />?????¤·?????????·???</a></li>
+
+								<li><a  href="//web.4399.com/ddt/2023janBack/"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/19/4399_11244830160.jpg" alt="???????é???í8??????" />???????é???í8??????</a></li>
+
+								<li><a  href="//my.4399.com/zhuanti/ssjj2/asoulXdzz"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/17/4399_17465389640.jpg" alt="?????ê?ó?????????ó·???" />?????ê?ó?????????ó·???</a></li>
+
+								<li><a  href="//huodong2.4399.com/2022/zmwsbxlxc/"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/1/5/4399_15085399608.jpg" alt="?ì????????????????????" />?ì????????????????????</a></li>
+
+				            </ul>
+
+        </div>
+
+    </div>
+
+    	<div class="box_l">
+
+    	<!--????????-->
+
+		<div class="rec_left cf">        
+
+		<div class="top_tit">
+
+            <span class="tit_ico2"></span>
+
+            <a href="/special/19.htm" class="tit_a">????????</a>
+
+            <a href="/special/19.htm" class="more_1"></a>
+
+        </div>
+
+        <ul class="rec_ul" id="fla_game">
+
+				            	<li>
+
+                	<a onclick="return tracead('www_index_jrtj_2');" class="rec_img"  href="/flash/210650.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/2/8/4399_14055191072.jpg" alt="?ì??????" /></a>
+
+                    <p><em><a onclick="return tracead('www_index_jrtj_2');"  href="/flash/210650.htm">?ì??????</a></em><a class="p_ac"  href="/flash/210650.htm">?????÷?????¨??????????</a></p>
+
+                </li>
+
+				            	<li>
+
+                	<a onclick="return tracead('www_index_jrtj_3');" class="rec_img"  href="/special/212.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/12/3/4399_14090282647.jpg" alt="????×¨?????·" /></a>
+
+                    <p><em><a onclick="return tracead('www_index_jrtj_3');"  href="/special/212.htm">????×¨?????·</a></em><a class="p_ac"  href="/special/212.htm">????????????????????????????????????</a></p>
+
+                </li>
+
+				            	<li>
+
+                	<a onclick="return tracead('www_index_jrtj_4');" class="rec_img"  href="//my.4399.com/yxbzsc/"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/1/19/4399_15355875123.jpg" alt="4399°???????" /></a>
+
+                    <p><em><a onclick="return tracead('www_index_jrtj_4');"  href="//my.4399.com/yxbzsc/">4399°???????</a></em><a class="p_ac"  href="//my.4399.com/yxbzsc/">????°????????×????????????????</a></p>
+
+                </li>
+
+				            	<li>
+
+                	<a onclick="return tracead('www_index_jrtj_5');" class="rec_img"  href="/flash/218874.htm"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/10/11/4399_14113248725.jpg" alt="4399????°??÷" /></a>
+
+                    <p><em><a onclick="return tracead('www_index_jrtj_5');"  href="/flash/218874.htm">4399????°??÷</a></em><a class="p_ac"  href="/flash/218874.htm">?????????????·???????????????????é</a></p>
+
+                </li>
+
+				            	<li>
+
+                	<a onclick="return tracead('www_index_jrtj_6');" class="rec_img"  href="//my.4399.com/yxqjz/"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/8/4/4399_14075299515.jpg" alt="4399???ú??????" /></a>
+
+                    <p><em><a onclick="return tracead('www_index_jrtj_6');"  href="//my.4399.com/yxqjz/">4399???ú??????</a></em><a class="p_ac"  href="//my.4399.com/yxqjz/">?÷±??????????ó?ù???????????????????ú</a></p>
+
+                </li>
+
+				            </ul>
+
+        </div>
+
+		<div class="rec_top cf">
+
+        	<div class="top_tit">
+
+                <span class="tit_ico2"></span>
+
+                <a href="/special/good.htm" class="tit_a">????×¨??</a>
+
+                <a href="/special/good.htm" class="more_1"></a>
+
+            </div>
+
+            <ul class="top_ul" id="specialcommend1">
+
+               <li><a onclick="return tracead('www_zt_01');" href="/special/1.htm"> <img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2014/6/18/4399_16265023726.jpg">?????????·</a></li>
+
+				<li><a onclick="return tracead('www_zt_02');" href="//www.4399dmw.com/donghua/"><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2014/6/18/4399_16265675485.gif">???????ó??</a></li>
+
+								<li><a onclick="return tracead('www_zt_03');" href="/special/148.htm"> <img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2014/9/23/4399_11425908884.jpg">????°?</a></li>
+
+								<li><a onclick="return tracead('www_zt_04');" href="/special/29.htm"> <img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2014/5/15/4399_17135804543.jpg">????</a></li>
+
+								<li><a onclick="return tracead('www_zt_05');" href="/special/19.htm"> <img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2017/5/20/4399_14160014245.jpg">???????·?ó??</a></li>
+
+								<li><a onclick="return tracead('www_zt_06');" href="/special/8.htm"> <img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2014/5/15/4399_17105762559.jpg">??????????</a></li>
+
+								<li><a onclick="return tracead('www_zt_07');" href="/special/153.htm"> <img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2014/8/19/4399_17531158651.jpg">±?±?</a></li>
+
+								<li><a onclick="return tracead('www_zt_08');" href="/special/260.htm"> <img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2015/5/19/4399_14431636880.jpg">3D???·</a></li>
+
+								<li><a onclick="return tracead('www_zt_09');" href="/special/169.htm"> <img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2020/12/4/4399_17055123564.jpg">???÷</a></li>
+
+								<li><a onclick="return tracead('www_zt_10');" href="/special/93.htm"> <img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2014/5/15/4399_17065547201.jpg">?ó????????</a></li>
+
+								<li><a onclick="return tracead('www_zt_11');" href="/special/17.htm"> <img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2015/11/17/4399_14283754180.jpg">???à±?±?</a></li>
+
+								<li><a onclick="return tracead('www_zt_12');" href="/special/293.htm"> <img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2016/5/11/4399_13453931443.jpg">×é×°×¨??</a></li>
+
+								<li><a onclick="return tracead('www_zt_13');" href="/special/38.htm"> <img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2018/7/16/4399_09082451111.jpg">×??ò</a></li>
+
+								<li><a onclick="return tracead('www_zt_14');" href="/special/5.htm"> <img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2019/9/25/4399_14152936947.jpg">????????</a></li>
+
+								<li><a onclick="return tracead('www_zt_15');" href="/special/212.htm"> <img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2014/9/23/4399_11233171018.jpg">????</a></li>
+
+				            </ul>
+
+			<ul class="top_ul" id="specialcommend2" style="display:none;">
+
+								<li><a onclick="return tracead('www_zt_16');" href="/special/296.htm"> <img lz_src="//imga2.5054399.com/upload_pic/2019/8/23/4399_15555497543.jpg">??????</a></li>
+
+								<li><a onclick="return tracead('www_zt_17');" href="/special/219.htm"> <img lz_src="//imga5.5054399.com/upload_pic/2014/9/23/4399_11365775606.jpg">????</a></li>
+
+								<li><a onclick="return tracead('www_zt_18');" href="/special/34.htm"> <img lz_src="//imga5.5054399.com/upload_pic/2014/7/21/4399_10421217995.jpg">?????ó?¤??</a></li>
+
+								<li><a onclick="return tracead('www_zt_19');" href="/special/59.htm"> <img lz_src="//imga5.5054399.com/upload_pic/2014/9/23/4399_11422961194.jpg">??·????·</a></li>
+
+								<li><a onclick="return tracead('www_zt_20');" href="/special/270.htm"> <img lz_src="//imga1.5054399.com/upload_pic/2016/7/13/4399_14543151511.jpg">???ú???·????</a></li>
+
+								<li><a onclick="return tracead('www_zt_21');" href="/special/90.htm"> <img lz_src="//imga1.5054399.com/upload_pic/2019/4/26/4399_10494134345.jpg">????</a></li>
+
+								<li><a onclick="return tracead('www_zt_22');" href="/special/110.htm"> <img lz_src="//imga1.5054399.com/upload_pic/2019/4/26/4399_10500977703.jpg">?ò?¤????</a></li>
+
+								<li><a onclick="return tracead('www_zt_23');" href="/special/109.htm"> <img lz_src="//imga5.5054399.com/upload_pic/2020/12/4/4399_17052527783.jpg">?è??</a></li>
+
+								<li><a onclick="return tracead('www_zt_24');" href="/special/7.htm"> <img lz_src="//imga3.5054399.com/upload_pic/2020/12/4/4399_17045417423.jpg">×?·?</a></li>
+
+								<li><a onclick="return tracead('www_zt_25');" href="/special/10.htm"> <img lz_src="//imga1.5054399.com/upload_pic/2015/11/23/4399_09555821813.jpg">·???????</a></li>
+
+								<li><a onclick="return tracead('www_zt_26');" href="/special/164.htm"> <img lz_src="//imga5.5054399.com/upload_pic/2014/6/19/4399_15231590648.jpg">???°??</a></li>
+
+								<li><a onclick="return tracead('www_zt_27');" href="/special/13.htm"> <img lz_src="//imga4.5054399.com/upload_pic/2014/9/23/4399_11380747847.jpg">???·</a></li>
+
+								<li><a onclick="return tracead('www_zt_28');" href="/special/108.htm"> <img lz_src="//imga4.5054399.com/upload_pic/2014/5/15/4399_17071492535.jpg">?°??&??±¤</a></li>
+
+								<li><a onclick="return tracead('www_zt_29');" href="/special/167.htm"> <img lz_src="//imga3.5054399.com/upload_pic/2014/9/23/4399_11265620648.jpg">????</a></li>
+
+								<li><a onclick="return tracead('www_zt_30');" href="/special/225.htm"> <img lz_src="//imga1.5054399.com/upload_pic/2014/9/23/4399_11274656922.jpg">????</a></li>
+
+				            </ul>
+
+            <div id="specialcommend3" class="new_pag"><a href="" class="up_1 uon" onclick="specialcommendtab(1);return false;"></a><a href="" class="do_1" onclick="specialcommendtab(2);return false;"></a></div>
+
+        </div>
+
+        <div class="asp_box cf">
+
+            <div class="tm_tit asp_week">
+
+                <span class="tit_ico3"></span>
+
+                <a href="//www.4399dmw.com/" class="tit_a">????????</a>
+
+				<a href="//www.4399dmw.com/" class="more_1"></a>
+
+            </div>
+
+            <a class="asp_img" onclick="return tracead('www_index_focus');" href="//www.4399dmw.com/donghua/"><img alt="4399??????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/12/16/4399_11360782321.jpg"></a>
+
+        	<ul class="wd_ul">
+
+								<li><a onclick="return tracead('www_dongman_02');" href="//www.4399dmw.com/dh/xzpq9/?zz"><img alt="???í????9" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/9/13/4399_13522112825.jpg">???í????9</a></li>
+
+								<li><a onclick="return tracead('www_dongman_03');" href="//www.4399dmw.com/dh/kxcc/?zz"><img alt="????????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/5/24/4399_17541211405.jpg">????????</a></li>
+
+								<li><a onclick="return tracead('www_dongman_04');" href="//www.4399dmw.com/dh/xmhlsdsj/?zz"><img alt="???¨?????ó" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/8/30/4399_11191081181.jpg">???¨?????ó</a></li>
+
+								<li><a onclick="return tracead('www_dongman_05');" href="//www.4399dmw.com/dh/jsxyx6/?zz"><img alt="??????????6" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/12/31/4399_23264932621.jpg">??????????6</a></li>
+
+								<li><a onclick="return tracead('www_dongman_06');" href="//www.4399dmw.com/dh/ycshz6ycsjc/?zz"><img alt="??????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2023/1/6/4399_16443179402.jpg">??????????</a></li>
+
+								<li><a onclick="return tracead('www_dongman_07');" href="//www.4399dmw.com/dh/xpyjrzkmdmx/?zz"><img alt="???·??????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/2/8/4399_14060641219.jpg">???·??????</a></li>
+
+				            </ul>
+
+        </div>
+
+		<div class="rec_left cf mt10">
+
+			<div class="top_tit">
+
+                <span class="phone"></span>
+
+                <a href="//www.4399.cn/" class="tit_a">???ú???·</a>   
+
+				<a href="//www.4399.cn/" class="more_1"></a>             
+
+            </div>
+
+			<ul class="phone_ul cf">
+
+								<li><a href="//a.4399.cn/game-id-141546.html"><img alt="????" lzimg="1" lz_src="//f1.img4399.com/ma~1004_230206152737_SjkI.jpeg">????</a></li>
+
+								<li><a href="//a.4399.cn/game-id-115384.html"><img alt="???????·??" lzimg="1" lz_src="//f1.img4399.com/ma~1004_230206152728_qA30.png">???????·??</a></li>
+
+								<li><a href="//a.4399.cn/game-id-109196.html"><img alt="???é" lzimg="1" lz_src="//f1.img4399.com/ma~1004_230206152720_7I31.jpeg">???é</a></li>
+
+								<li><a href="//a.4399.cn/game-id-128070.html"><img alt="???ú??°?" lzimg="1" lz_src="//f1.img4399.com/ma~1004_230206152757_l0sj.png">???ú??°?</a></li>
+
+								<li><a href="//a.4399.cn/game-id-111294.html"><img alt="????????" lzimg="1" lz_src="//f1.img4399.com/ma~1004_230206152747_sPL1.jpeg">????????</a></li>
+
+								<li><a href="//a.4399.cn/game-id-121958.html"><img alt="???°???·" lzimg="1" lz_src="//f1.img4399.com/ma~1004_230206152821_Fqos.jpeg">???°???·</a></li>
+
+								<li><a href="//a.4399.cn/game-id-223519.html"><img alt="???????ó?°??" lzimg="1" lz_src="//f1.img4399.com/ma~1004_230206152806_l0fn.gif">???????ó?°??</a></li>
+
+								<li><a href="//a.4399.cn/game-id-200143.html"><img alt="???÷???÷·?" lzimg="1" lz_src="//f1.img4399.com/ma~1004_230206152831_k5vw.gif">???÷???÷·?</a></li>
+
+								<li><a href="//a.4399.cn/game-id-107763.html"><img alt="????????" lzimg="1" lz_src="//f1.img4399.com/ma~1004_230206152814_Y4Ql.jpeg">????????</a></li>
+
+							</ul>
+
+		</div>
+
+        <div class="rec_top cf">
+
+			<div class="top_tit">
+
+                <span class="tit_ico2"></span>
+
+                <a class="tit_a" href="/special/19.htm">???????·</a>
+
+                <a class="more_1" href="/special/19.htm"></a>
+
+            </div>
+
+            <div id="webgamediv">
+
+			<ul class="wd_ul" id="webgame1">
+
+								<li><a onclick="return tracead('www_web_01');" href="//my.4399.com/yxsgqyz/"><img alt="4399???ú??????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2020/8/20/4399_11085565686.jpg">4399???ú??????</a></li>
+
+								<li><a onclick="return tracead('www_web_02');" href="https://my.4399.com/yxdldl3d/"><img alt="???ú????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/7/27/4399_17554885761.jpg">???ú????</a></li>
+
+								<li><a onclick="return tracead('www_web_03');" href="/flash/216859.htm"><img alt="4399????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/7/27/4399_16584140314.jpg">4399????????</a></li>
+
+								<li><a onclick="return tracead('www_web_04');" href="//my.4399.com/yxxxtjd/"><img alt="4399???????÷??" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2020/5/7/4399_15372769741.jpg">4399???????÷??</a></li>
+
+								<li><a onclick="return tracead('www_web_05');" href="//my.4399.com/yxtouch/"><img alt="4399Touch????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/10/23/4399_10154428767.jpg">4399Touch????</a></li>
+
+								<li><a onclick="return tracead('www_web_06');" href="/flash/228701.htm"><img alt="4399???ì??" lzimg="1" lz_src="//imga.5054399.com/upload_pic/2022/10/26/4399_13584508545.jpg">4399???ì??</a></li>
+
+								<li><a onclick="return tracead('www_web_07');" href="/flash/218874.htm"><img alt="4399????°??÷" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/5/21/4399_15381207997.jpg">4399????°??÷</a></li>
+
+								<li><a onclick="return tracead('www_web_08');" href="//my.4399.com/yxbzsc/"><img alt="4399°???????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/8/2/4399_14552868438.jpg">4399°???????</a></li>
+
+							</ul>
+
+			<ul class="wd_ul" id="webgame2" style="display: none;">
+
+								<li><a onclick="return tracead('www_web_09');" href="https://ssjj.4399.com/"><img alt="4399?ú?????÷" lz_src="//imga5.5054399.com/upload_pic/2017/9/7/4399_16530692440.jpg">4399?ú?????÷</a></li>
+
+								<li><a onclick="return tracead('www_web_10');" href="https://news.4399.com/hxjy/"><img alt="4399????????" lz_src="//imga.5054399.com/upload_pic/2017/9/7/4399_16531376915.jpg">4399????????</a></li>
+
+								<li><a onclick="return tracead('www_web_11');" href="//my.4399.com/yxtk/"><img alt="3D????" lz_src="//imga4.5054399.com/upload_pic/2016/11/23/4399_09363612411.jpg">3D????</a></li>
+
+								<li><a onclick="return tracead('www_web_12');" href="/flash/12439.htm"><img alt="4399??????" lz_src="//imga5.5054399.com/upload_pic/2022/12/8/4399_17023337444.jpg">4399??????</a></li>
+
+								<li><a onclick="return tracead('www_web_13');" href="https://my.4399.com/yxsgs/"><img alt="4399???ú?±" lz_src="//imga3.5054399.com/upload_pic/2020/12/18/4399_11200128777.jpg">4399???ú?±</a></li>
+
+								<li><a onclick="return tracead('www_web_14');" href="//my.4399.com/yxqjz/"><img alt="4399???ú??????" lz_src="//imga5.5054399.com/upload_pic/2022/6/24/4399_14192501507.jpg">4399???ú??????</a></li>
+
+								<li><a onclick="return tracead('www_web_15');" href="//my.4399.com/yxayqj/"><img alt="4399°???????" lz_src="//imga2.5054399.com/upload_pic/2022/7/29/4399_16580940992.jpg">4399°???????</a></li>
+
+								<li><a onclick="return tracead('www_web_16');" href="https://my.4399.com/yxmsdzls/"><img alt="?????ó?????ó" lz_src="//imga1.5054399.com/upload_pic/2017/9/7/4399_16534211016.jpg">?????ó?????ó</a></li>
+
+							</ul>
+
+			<div id="webgame3" class="new_pag"><a href="" class="up_1 uon" onclick="webgametab(1);return false;"></a><a href="" class="do_1" onclick="webgametab(2);return false;"></a></div>
+
+		</div>
+
+		</div>
+
+
+
+				<div class="rec_left cf mt10">
+
+			<div class="top_tit">
+
+				<span class="tit_ico2"></span>
+
+				<a class="tit_a" href="/pcgame/">???§?????·</a>
+
+				<em>???????ò??????</em>
+
+				<a class="more_1" href="/pcgame/"></a>
+
+			</div>
+
+			<ul class="wd_ul">
+
+								<li>
+
+					<a onclick="return tracead('www_pcgame_01');" href="http://news.4399.com/lyjy/">
+
+						<img alt="?ú?????°" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/11/25/4399_21133185849.jpg">?ú?????°</a>
+
+				</li>
+
+								<li>
+
+					<a onclick="return tracead('www_pcgame_02');" href="http://news.4399.com/shikzh/">
+
+						<img alt="?±??????" lzimg="1" lz_src="//imga.5054399.com/upload_pic/2022/9/22/4399_17154945349.jpg">?±??????</a>
+
+				</li>
+
+								<li>
+
+					<a onclick="return tracead('www_pcgame_03');" href="http://news.4399.com/300/">
+
+						<img alt="300????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/7/14/4399_13451650063.jpg">300????</a>
+
+				</li>
+
+								<li>
+
+					<a onclick="return tracead('www_pcgame_04');" href="http://news.4399.com/yhzrpc/">
+
+						<img alt="???ê????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/12/2/4399_10595434877.jpg">???ê????</a>
+
+				</li>
+
+								<li>
+
+					<a onclick="return tracead('www_pcgame_05');" href="http://news.4399.com/xxtjd2/">
+
+						<img alt="???????÷??2" lzimg="1" lz_src="//imga.5054399.com/upload_pic/2021/7/19/4399_14543111040.jpg">???????÷??2</a>
+
+				</li>
+
+								<li>
+
+					<a onclick="return tracead('www_pcgame_06');" href="http://news.4399.com/dftk/">
+
+						<img alt="á?·?????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2020/1/21/4399_17235811186.jpg">á?·?????</a>
+
+				</li>
+
+								<li>
+
+					<a onclick="return tracead('www_pcgame_07');" href="http://news.4399.com/wangzhezhishi/">
+
+						<img alt="????????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/10/12/4399_17251880752.jpg">????????</a>
+
+				</li>
+
+								<li>
+
+					<a onclick="return tracead('www_pcgame_08');" href="http://news.4399.com/zdlm/">
+
+						<img alt="????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2020/3/7/4399_08593958612.jpg">????????</a>
+
+				</li>
+
+							</ul>
+
+		</div>
+
+        		
+
+    </div>
+
+</div>
+
+<div style="clear:both;width:980px; padding:5px 0 0 0; margin:0 auto;"><a onclick="return tracead('www_index_banner_2');" href="//app.4399.cn/cloudGame.html"><img alt="???·???????·" src="//imga4.5054399.com/upload_pic/2022/12/8/4399_15283254886.jpg"></a></div><div class="lf_game cf" id="newtj">
+
+    <div class="tm_tit">
+
+        <span class="tit_ico2"></span>
+
+        <a href="/flash/game100.htm" class="tit_a">×??????????·</a>
+
+        <a href="/flash/game100.htm" class="more_1"></a>
+
+        <span class="tit_ico5"></span>
+
+    </div>
+
+    <ul class="tm_list lf_ul">
+
+      	<li><a href="/flash/232312.htm"><span class="new"></span><img alt="??±??????ü" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/2/6/4399_10513056063.jpg" />??±??????ü</a></li>
+
+		<li><a href="/flash/232297.htm"><span class="new"></span><img alt="×??ò????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/2/3/4399_16283944479.jpg" />×??ò????</a></li>
+
+		<li><a href="/flash/232296.htm"><span class="new"></span><img alt="????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2023/2/3/4399_16183955820.jpg" />????????</a></li>
+
+		<li><a href="/flash/232293.htm"><span class="new"></span><img alt="???????ó?¨??" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/2/3/4399_16054749102.jpg" />???????ó?¨??</a></li>
+
+		<li><a href="/flash/232288.htm"><span class="new"></span><img alt="????????2H5" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/2/3/4399_15451262780.jpg" />????????2H5</a></li>
+
+		<li><a href="/flash/232285.htm"><span class="new"></span><img alt="±??¤??×????????°??H5" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2023/2/3/4399_15275975493.jpg" />±??¤??×????????°??H5</a></li>
+
+		<li><a href="/flash/232266.htm"><span class="new"></span><img alt="????ì???????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2023/2/2/4399_16054705662.jpg" />????ì???????</a></li>
+
+		<li><a href="/flash/232282.htm"><span class="new"></span><img alt="????·??é????6" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/2/3/4399_15100430506.jpg" />????·??é????6</a></li>
+
+		<li><a href="/flash/232262.htm"><span class="new"></span><img alt="????·??ú????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/2/2/4399_14533482764.jpg" />????·??ú????</a></li>
+
+		<li><a href="/flash/232134.htm"><img alt="????????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/28/4399_15420882136.jpg" />????????????</a></li>
+
+		<li><a href="/flash/232106.htm"><img alt="·????????ù" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2023/1/19/4399_15511043804.jpg" />·????????ù</a></li>
+
+		<li><a href="/flash/232043.htm"><img alt="???????????·??" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/17/4399_16365294311.jpg" />???????????·??</a></li>
+
+		<li><a href="/flash/231944.htm"><img alt="??×?????×÷" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/11/4399_15593406360.jpg" />??×?????×÷</a></li>
+
+		<li><a href="/flash/231745.htm"><img alt="???ú??×?????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/12/28/4399_14502075143.jpg" />???ú??×?????</a></li>
+
+		<li><a href="/flash/231600.htm"><img alt="????????H5" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/12/20/4399_10500735402.jpg" />????????H5</a></li>
+
+		<li><a href="/flash/231801.htm"><img alt="?????¨?ò?ó??" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2023/1/3/4399_14450313589.jpg" />?????¨?ò?ó??</a></li>
+
+		<li><a href="/flash/230928.htm"><img alt="·è???ò?ò" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/11/16/4399_16514077808.jpg" />·è???ò?ò</a></li>
+
+		<li><a href="/flash/231547.htm"><img alt="????????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/12/16/4399_16161321296.jpg" />????????</a></li>
+
+		<li><a href="/flash/231674.htm"><img alt="????????×?????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/12/23/4399_10103668077.jpg" />????????×?????</a></li>
+
+		<li><a href="/flash/232148.htm"><img alt="???????é??H5" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/28/4399_17530836541.jpg" />???????é??H5</a></li>
+
+		<li><a href="/flash/231610.htm"><img alt="????3200?±????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/12/20/4399_15285622216.jpg" />????3200?±????</a></li>
+
+		<li><a href="/flash/229983.htm"><img alt="???÷????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/9/27/4399_19312763379.jpg" />???÷????</a></li>
+
+		<li><a href="/flash/230407.htm"><img alt="??????×?????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/10/21/4399_16211473823.jpg" />??????×?????</a></li>
+
+		<li><a href="//www.3000.com/work/119280.html"><img alt="???ì??????×???" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/1/29/4399_16041860086.jpg" />???ì??????×???</a></li>
+
+		<li><a href="/flash/230979.htm"><img alt="?è???°????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/18/4399_16445078746.jpg" />?è???°????</a></li>
+
+		<li><a href="/flash/230476.htm"><img alt="??·??ó×÷??" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/10/25/4399_19375238528.jpg" />??·??ó×÷??</a></li>
+
+		<li><a href="/flash/229818.htm"><img alt="?ò??????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/9/20/4399_19252822137.jpg" />?ò??????</a></li>
+
+		<li><a href="/flash/226976.htm"><img alt="???°·???" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/4/28/4399_16535636217.jpg" />???°·???</a></li>
+
+		<li><a href="/flash/231962.htm"><img alt="??????°à" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/1/12/4399_16011168872.jpg" />??????°à</a></li>
+
+		<li><a href="/flash/231555.htm"><img alt="?ú??????2H5" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/12/16/4399_17225476168.jpg" />?ú??????2H5</a></li>
+
+		<li><a href="/flash/229625.htm"><img alt="???????ê??" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/9/9/4399_15275819027.jpg" />???????ê??</a></li>
+
+		<li><a href="/flash/229596.htm"><img alt="??????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/9/8/4399_16085946008.jpg" />??????????</a></li>
+
+		<li><a href="/flash/231201.htm"><img alt="?ú?×?????ó??" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/11/30/4399_14133086055.jpg" />?ú?×?????ó??</a></li>
+
+		<li><a href="/flash/228877.htm"><img alt="???????×?ê" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/8/4/4399_16295413427.jpg" />???????×?ê</a></li>
+
+		<li><a href="/flash/231034.htm"><img alt="???????í??" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/22/4399_16133872567.jpg" />???????í??</a></li>
+
+		<li><a href="/flash/229369.htm"><img alt="????±????ù" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/8/29/4399_15443890345.jpg" />????±????ù</a></li>
+
+		<li><a href="/flash/220755.htm"><img alt="????????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/8/4/4399_14463457914.jpg" />????????????</a></li>
+
+		<li><a href="/flash/230589.htm"><img alt="???ù?¨??" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/10/31/4399_17423042904.jpg" />???ù?¨??</a></li>
+
+		<li><a href="/flash/231095.htm"><img alt="???????÷" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/11/24/4399_16475765697.jpg" />???????÷</a></li>
+
+		<li><a href="/flash/210626.htm"><img alt="??°?????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2020/1/7/4399_14575420801.jpg" />??°?????</a></li>
+
+		<li><a href="/flash/229754.htm"><img alt="???????ò" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/9/20/4399_13364049646.jpg" />???????ò</a></li>
+
+		<li><a href="/flash/230948.htm"><img alt="????????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/11/17/4399_16113590959.jpg" />????????</a></li>
+
+		<li><a href="/flash/228494.htm"><img alt="??·ò??????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/7/18/4399_15424397455.jpg" />??·ò??????</a></li>
+
+		<li><a href="/flash/229967.htm"><img alt="???????ó×÷??2" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/9/27/4399_16320166623.jpg" />???????ó×÷??2</a></li>
+
+		<li><a href="/flash/229297.htm"><img alt="???????????ê" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/8/24/4399_19162108380.jpg" />???????????ê</a></li>
+
+		<li><a href="/flash/221389.htm"><img alt="?????????????ü" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/7/20/4399_16285626830.jpg" />?????????????ü</a></li>
+
+		<li><a href="/flash/231247.htm"><img alt="?ú?×?ó??????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/12/1/4399_16524420082.jpg" />?ú?×?ó??????</a></li>
+
+		<li><a href="/flash/230265.htm"><img alt="????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/10/14/4399_17153250426.jpg" />????????</a></li>
+
+		<li><a href="/flash/226026.htm"><img alt="?????????????÷" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/3/14/4399_17175897682.jpg" />?????????????÷</a></li>
+
+		<li><a href="/flash/228902.htm"><img alt="???????á" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/8/5/4399_16023432693.jpg" />???????á</a></li>
+
+		<li><a href="/flash/229831.htm"><img alt="?¤??±?±?±?" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/9/21/4399_14504720646.jpg" />?¤??±?±?±?</a></li>
+
+		<li><a href="/flash/227453.htm"><img alt="?????????ü??" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/5/26/4399_16544434443.jpg" />?????????ü??</a></li>
+
+		<li><a href="/flash/229915.htm"><img alt="??????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/9/24/4399_14253090283.jpg" />??????</a></li>
+
+		<li><a href="/flash/228497.htm"><img alt="?????¤?§?ó?°??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/7/18/4399_16083126327.jpg" />?????¤?§?ó?°??</a></li>
+
+		<li><a href="/flash/223696.htm"><img alt="???÷??????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/11/12/4399_09585498181.jpg" />???÷??????</a></li>
+
+		<li><a href="/flash/229100.htm"><img alt="??????????°???" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/8/16/4399_14505582098.jpg" />??????????°???</a></li>
+
+		<li><a href="/flash/229836.htm"><img alt="?·?·?ú????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/9/21/4399_15342108960.jpg" />?·?·?ú????</a></li>
+
+		<li><a href="/flash/222224.htm"><img alt="???????ó????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/8/28/4399_13584413826.jpg" />???????ó????</a></li>
+
+		<li><a href="/flash/226733.htm"><img alt="????±?????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/4/18/4399_15350319753.jpg" />????±?????</a></li>
+
+		<li><a href="/flash/229140.htm"><img alt="·è????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/8/17/4399_16215859645.jpg" />·è????????</a></li>
+
+		<li><a href="/flash/226310.htm"><img alt="?????????÷" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/3/29/4399_14504502528.jpg" />?????????÷</a></li>
+
+		<li><a href="/flash/228092.htm"><img alt="??±??????ó????3" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/6/28/4399_15524051832.jpg" />??±??????ó????3</a></li>
+
+		<li><a href="/flash/227552.htm"><img alt="????±??ù??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/7/4/4399_13444796386.jpg" />????±??ù??</a></li>
+
+		<li><a href="/flash/220939.htm"><img alt="?????????á±??ü" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/6/30/4399_14210292093.jpg" />?????????á±??ü</a></li>
+
+		<li><a href="/flash/224830.htm"><img alt="?????±????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/1/6/4399_10015283400.jpg" />?????±????</a></li>
+
+		<li><a href="/flash/225996.htm"><img alt="?¤????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/3/11/4399_19283878510.jpg" />?¤????????</a></li>
+
+		<li><a href="/flash/221622.htm"><img alt="???????é±??ò????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/7/30/4399_15563018606.jpg" />???????é±??ò????</a></li>
+
+		<li><a href="/flash/224836.htm"><img alt="????????·ì" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/1/6/4399_14343736471.jpg" />????????·ì</a></li>
+
+		<li><a href="/flash/227331.htm"><img alt="?????ó°????ú" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/5/20/4399_16351471139.jpg" />?????ó°????ú</a></li>
+
+		<li><a href="/flash/225772.htm"><img alt="???ù?????÷" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/3/1/4399_14485149795.jpg" />???ù?????÷</a></li>
+
+		<li><a href="/flash/225304.htm"><img alt="???????????ó????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/1/27/4399_16150576717.jpg" />???????????ó????</a></li>
+
+		<li><a href="/flash/209134.htm"><img alt="?????±?ú??H5" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/10/12/4399_15425969124.jpg" />?????±?ú??H5</a></li>
+
+		<li><a href="/flash/217685.htm"><img alt="??????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/1/8/4399_10541696384.jpg" />??????????</a></li>
+
+		<li><a href="/flash/220085.htm"><img alt="???í??????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/5/20/4399_14390088908.jpg" />???í??????</a></li>
+
+		<li><a href="/flash/223978.htm"><img alt="????±???" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/11/24/4399_17052139330.jpg" />????±???</a></li>
+
+		<li><a href="/flash/217798.htm"><img alt="?????????ó????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/1/14/4399_11164536972.jpg" />?????????ó????</a></li>
+
+		<li><a href="/flash/221095.htm"><img alt="?????????á????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/7/7/4399_16515355389.jpg" />?????????á????</a></li>
+
+		<li><a href="/flash/217098.htm"><img alt="?????§??2" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/12/7/4399_17004660511.jpg" />?????§??2</a></li>
+
+		<li><a href="/flash/219919.htm"><img alt="3D×??ò" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/5/10/4399_17205578612.jpg" />3D×??ò</a></li>
+
+		<li><a href="/flash/220904.htm"><img alt="???í???????·2?ú????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/6/28/4399_17171736232.jpg" />???í???????·2?ú????</a></li>
+
+		<li><a href="/flash/210228.htm"><img alt="???÷???·?°??2" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/12/19/4399_14334179183.jpg" />???÷???·?°??2</a></li>
+
+		<li><a href="/flash/206399.htm"><img alt="???è???ò?ò" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/s/206399.jpg" />???è???ò?ò</a></li>
+
+		<li><a href="/flash/218131.htm"><img alt="????????????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/2/1/4399_15252922817.jpg" />????????????????</a></li>
+
+		<li><a href="/flash/220387.htm"><img alt="?è?????ì??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/6/4/4399_11074777080.jpg" />?è?????ì??</a></li>
+
+		<li><a href="/flash/85646.htm"><img alt="?????ó??????????????°?2" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2016/2/26/4399_10133159415.jpg" />?????ó??????????????°?2</a></li>
+
+		<li><a href="/flash/221011.htm"><img alt="???ì?÷??°?" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/7/3/4399_14264056849.jpg" />???ì?÷??°?</a></li>
+
+		<li><a href="/flash/211000.htm"><img alt="??±?????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2020/2/4/4399_10270784647.jpg" />??±?????</a></li>
+
+		<li><a href="/flash/142014.htm"><img alt="????×?H5°?" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/22/4399_17444142457.jpg" />????×?H5°?</a></li>
+
+		<li><a href="/flash/221497.htm"><img alt="???¤????????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/7/26/4399_14245092320.jpg" />???¤????????</a></li>
+
+		<li><a href="/flash/231003.htm"><img alt="?ú?÷???á??3H5" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/11/21/4399_15442124076.jpg" />?ú?÷???á??3H5</a></li>
+
+	  </ul>
+
+</div>
+
+
+
+<div class="g-zone" id="girl">
+
+	<div class="g-top"><a class="tit" href="/special/195.htm">???ú???·×¨??</a><a class="more_2" href="/special/195.htm"></a></div>
+
+    <div class="g-cen cf">
+
+    	<div class="g-le">
+
+        	<ul class="tm_list g-ul cf">
+
+								<li><a href="//zuopin.4399.com/tuya/"><span class="hot"></span><img lzimg="1" alt="4399??????°?" lz_src="//imga4.5054399.com/upload_pic/2016/2/29/4399_17484422351.jpg">4399??????°?</a></li>
+
+								<li><a href="/flash/230622.htm"><span class="new"></span><img lzimg="1" alt="?±??????·???" lz_src="//imga3.5054399.com/upload_pic/2022/11/2/4399_11091778076.jpg">?±??????·???</a></li>
+
+								<li><a href="/flash/230618.htm"><span class="new"></span><img lzimg="1" alt="°????è??????" lz_src="//imga4.5054399.com/upload_pic/2022/11/2/4399_10205214130.jpg">°????è??????</a></li>
+
+								<li><a href="/flash/230507.htm"><img lzimg="1" alt="???????????é??" lz_src="//imga3.5054399.com/upload_pic/2022/10/27/4399_11163816097.jpg">???????????é??</a></li>
+
+								<li><a href="/flash/230282.htm"><img lzimg="1" alt="?????????±?????÷" lz_src="//imga3.5054399.com/upload_pic/2022/10/17/4399_11254979206.jpg">?????????±?????÷</a></li>
+
+								<li><a href="/flash/231035.htm"><img lzimg="1" alt="?¨?????????¨" lz_src="//imga1.5054399.com/upload_pic/2022/11/22/4399_16194107363.jpg">?¨?????????¨</a></li>
+
+								<li><a href="/flash/229739.htm"><img lzimg="1" alt="±?±??í?ê" lz_src="//imga5.5054399.com/upload_pic/2022/9/16/4399_16090811556.jpg">±?±??í?ê</a></li>
+
+								<li><a href="/flash/229174.htm"><img lzimg="1" alt="°??????ü°?????" lz_src="//imga5.5054399.com/upload_pic/2022/8/19/4399_09582222857.jpg">°??????ü°?????</a></li>
+
+								<li><a href="/flash/218905.htm"><img lzimg="1" alt="??????" lz_src="//imga1.5054399.com/upload_pic/2022/11/4/4399_09540181859.jpg">??????</a></li>
+
+								<li><a href="/flash/230317.htm"><img lzimg="1" alt="?±??????±?·?×°" lz_src="//imga3.5054399.com/upload_pic/2022/10/18/4399_14145108432.jpg">?±??????±?·?×°</a></li>
+
+								<li><a href="/flash/224390.htm"><img lzimg="1" alt="????·???" lz_src="//imga1.5054399.com/upload_pic/2021/12/14/4399_16384762646.jpg">????·???</a></li>
+
+								<li><a href="/flash/223814.htm"><img lzimg="1" alt="?ì?ì??????" lz_src="//imga5.5054399.com/upload_pic/2021/11/17/4399_15470116870.jpg">?ì?ì??????</a></li>
+
+								<li><a href="/flash/227918.htm"><img lzimg="1" alt="??????????????" lz_src="//imga4.5054399.com/upload_pic/2022/6/20/4399_14332722487.jpg">??????????????</a></li>
+
+								<li><a href="/flash/10379.htm"><img lzimg="1" alt="°?±???" lz_src="//imga5.5054399.com/upload_pic/2021/12/30/4399_14161439485.jpg">°?±???</a></li>
+
+								<li><a href="https://news.4399.com/pikatang/"><img lzimg="1" alt="?¤?¨????????" lz_src="//imga2.5054399.com/upload_pic/2023/1/16/4399_10394485352.jpg">?¤?¨????????</a></li>
+
+								<li><a href="/flash/230646.htm"><img lzimg="1" alt="?????¨?§" lz_src="//imga2.5054399.com/upload_pic/2022/11/2/4399_19081742703.jpg">?????¨?§</a></li>
+
+								<li><a href="/flash/222917.htm"><img lzimg="1" alt="??×÷???????í" lz_src="//imga3.5054399.com/upload_pic/2021/10/8/4399_17165551373.jpg">??×÷???????í</a></li>
+
+								<li><a href="/flash/223172.htm"><img lzimg="1" alt="?????í?á????????" lz_src="//imga3.5054399.com/upload_pic/2021/10/19/4399_16195057905.jpg">?????í?á????????</a></li>
+
+								<li><a href="/flash/223118.htm"><img lzimg="1" alt="???¨?è?á?????÷??" lz_src="//imga4.5054399.com/upload_pic/2021/10/18/4399_11125373038.jpg">???¨?è?á?????÷??</a></li>
+
+								<li><a href="/flash/222301.htm"><img lzimg="1" alt="?ê??×°????" lz_src="//imga2.5054399.com/upload_pic/2021/9/1/4399_15125158278.jpg">?ê??×°????</a></li>
+
+								<li><a href="/flash/27924.htm"><img lzimg="1" alt="???¨??" lz_src="//imga5.5054399.com/upload_pic/2023/1/16/4399_16113547024.jpg">???¨??</a></li>
+
+								<li><a href="/flash/224754.htm"><img lzimg="1" alt="???????ó??±???" lz_src="//imga5.5054399.com/upload_pic/2022/1/20/4399_14551913906.jpg">???????ó??±???</a></li>
+
+								<li><a href="/flash/208559.htm"><img lzimg="1" alt="??????????" lz_src="//imga5.5054399.com/upload_pic/2019/9/6/4399_10224196504.jpg">??????????</a></li>
+
+								<li><a href="/flash/229622.htm"><img lzimg="1" alt="???????è?ê" lz_src="//imga3.5054399.com/upload_pic/2022/9/9/4399_15134558641.jpg">???????è?ê</a></li>
+
+								<li><a href="/flash/221881.htm"><img lzimg="1" alt="???ì?÷??" lz_src="//imga2.5054399.com/upload_pic/2021/8/12/4399_14481917639.jpg">???ì?÷??</a></li>
+
+								<li><a href="/flash/218965.htm"><img lzimg="1" alt="????°?????×±" lz_src="//imga1.5054399.com/upload_pic/2021/3/18/4399_16384187325.jpg">????°?????×±</a></li>
+
+								<li><a href="/flash/214233.htm"><img lzimg="1" alt="???÷??????????" lz_src="//imga4.5054399.com/upload_pic/2020/7/7/4399_15171390122.jpg">???÷??????????</a></li>
+
+								<li><a href="/flash/221838.htm"><img lzimg="1" alt="??????±¤?ê" lz_src="//imga4.5054399.com/upload_pic/2021/8/10/4399_16133451460.jpg">??????±¤?ê</a></li>
+
+						    </ul>
+
+        </div>
+
+        <div class="g-ri">
+
+			<div class="setlide">
+
+                <ul class="setimgs">
+
+					                    <li id="pics0"><a href="/flash/208914.htm"><img alt="???????¨?????§????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/2/3/4399_17072613846.jpg"></a></li>
+
+					                </ul>
+
+				<span id="fpage1"></span>
+
+				<span id="fpage2"></span>       
+
+                <div class="settit">
+
+					                    <a id="pica0" href="/flash/208914.htm">???????¨?????§????????</a>
+
+					                </div>
+
+        	</div>
+
+            <ul id="specialcommend1" class="top_ul cf">
+
+                				<li><a href="/special/169.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2020/12/4/4399_10294786898.jpg">???÷×¨??</a></li>
+
+                				<li><a href="/special/94.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2020/12/4/4399_10315267284.jpg">??×±</a></li>
+
+                				<li><a href="/special/105.htm"><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2017/6/24/4399_10524965430.jpg">?é???é??</a></li>
+
+                				<li><a href="/special/204.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/12/4/4399_10300396450.jpg">???ú??×°</a></li>
+
+                				<li><a href="/special/154.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/12/4/4399_10313133912.jpg">??·?</a></li>
+
+                				<li><a href="/special/182.htm"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/12/4/4399_10310035640.jpg">????</a></li>
+
+                				<li><a href="/special/7.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2020/12/4/4399_10302261117.jpg">×?·?</a></li>
+
+                				<li><a href="/special/109.htm"><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/12/4/4399_13561494453.jpg">?è??</a></li>
+
+                				<li><a href="/special/23.htm"><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2014/5/15/4399_17040312778.jpg">°?sue</a></li>
+
+                            </ul>
+
+		</div>
+
+		    </div>
+
+</div>
+
+
+
+<div class="old-g cf">
+
+	<em class="g-ico"></em>
+
+    <div class="tm_tit g-old">
+
+        <a href="/flash/tj.htm" class="o-tit">???????·????</a>
+
+        <a href="/flash/tj.htm" class="more_1"></a>
+
+        <span class="tit_ico5"></span>
+
+        <div class="old-line"><a href="/special/127.htm ">????</a><a href="/special/144.htm ">?ì°×?ú</a><a href="/special/241.htm">±ù????</a><a href="/special/117.htm ">????</a><a href="/special/180.htm ">????</a><a href="/special/235.htm ">?ú?÷??</a><a href="/special/15.htm ">??????</a><a href="/special/75.htm ">?????à</a><a href="/special/212.htm">????</a><a href="/special/178.htm ">???í</a><a href="/special/28.htm">?ü??</a><a href="/special/39.htm">????</a><a href="/special/114.htm">°?±?????</a><a href="/special/63.htm">????</a><a href="/special/5.htm">????????</a><a href="/special/277.htm">???????·</a></div>
+
+    </div>
+
+    <ul class="tm_list o-ul">
+
+      		<li><a href="/flash/222756.htm"><img alt="°??????ù??" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/9/24/4399_16185545948.jpg" />°??????ù??</a></li>
+
+		<li><a href="/flash/230104.htm"><img alt="°????????·?°" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/10/9/4399_10232510015.jpg" />°????????·?°</a></li>
+
+		<li><a href="//my.4399.com/yxxqh/"><img alt="4399???ê" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2019/12/4/4399_17201618404.jpg" />4399???ê</a></li>
+
+		<li><a href="/flash/225715.htm"><img alt="±??ì?ù?ò??" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/2/24/4399_19241223001.jpg" />±??ì?ù?ò??</a></li>
+
+		<li><a href="/flash/231243.htm"><img alt="???·??????H5" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/12/1/4399_16415673405.jpg" />???·??????H5</a></li>
+
+		<li><a href="https://my.4399.com/yxsgs/"><img alt="4399???ú?±" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/3/18/4399_18063845841.jpg" />4399???ú?±</a></li>
+
+		<li><a href="/flash/205050.htm"><img alt="???·????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2019/10/9/4399_17084082167.jpg" />???·????</a></li>
+
+		<li><a href="/flash/209390.htm"><img alt="?¨?ò????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2019/10/30/4399_16144746238.jpg" />?¨?ò????</a></li>
+
+		<li><a href="/flash/202061.htm"><img alt="?????????·????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2018/11/20/4399_14121210801.jpg" />?????????·????</a></li>
+
+		<li><a href="/flash/221627.htm"><img alt="2020???ò???÷???ü" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/7/30/4399_17463675295.jpg" />2020???ò???÷???ü</a></li>
+
+		<li><a href="/flash/225171.htm"><img alt="??????????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/1/21/4399_15304174546.jpg" />??????????????</a></li>
+
+		<li><a href="/flash/198899.htm"><img alt="????????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/s/198899.jpg" />????????????</a></li>
+
+		<li><a href="/flash/202115.htm"><img alt="????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2019/s/202115.jpg" />????????</a></li>
+
+		<li><a href="https://my.4399.com/yxdldl3d/"><img alt="???ú????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/9/19/4399_16191955386.jpg" />???ú????</a></li>
+
+		<li><a href="https://my.4399.com/yxmsdzls/"><img alt="?????ó?????ó" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/1/13/4399_11253364934.jpg" />?????ó?????ó</a></li>
+
+		<li><a href="/flash/224587.htm"><img alt="????100??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/12/28/4399_15540038913.jpg" />????100??</a></li>
+
+		<li><a href="/flash/204078.htm"><img alt="???·???ú?ó×÷??" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/s/204078.jpg" />???·???ú?ó×÷??</a></li>
+
+		<li><a href="/flash/222850.htm"><img alt="?÷???ó×÷??" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/9/29/4399_14160541100.jpg" />?÷???ó×÷??</a></li>
+
+		<li><a href="/flash/231715.htm"><img alt="???¨????????°?H5" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/12/26/4399_16101861574.jpg" />???¨????????°?H5</a></li>
+
+		<li><a href="/flash/70215.htm"><img alt="???í????????°?" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2016/2/20/4399_15420181678.jpg" />???í????????°?</a></li>
+
+		<li><a href="/flash/213159.htm"><img alt="???????????ü" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2020/5/14/4399_16523184582.jpg" />???????????ü</a></li>
+
+		<li><a href="/flash/226741.htm"><img alt="??????·??ó??" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/4/18/4399_19290440027.jpg" />??????·??ó??</a></li>
+
+		<li><a href="/flash/230744.htm"><img alt="???????ò?????ò2H5" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/8/4399_14580332834.jpg" />???????ò?????ò2H5</a></li>
+
+		<li><a href="/flash/200542.htm"><img alt="??????????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2019/s/200542.jpg" />??????????</a></li>
+
+		<li><a href="/flash/231839.htm"><img alt="4399?ò????H5" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2016/2/22/4399_20085427468.jpg" />4399?ò????H5</a></li>
+
+		<li><a href="/flash/226730.htm"><img alt="?÷??????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2023/1/18/4399_10082802741.jpg" />?÷??????</a></li>
+
+		<li><a href="/flash/207644.htm"><img alt="???????ò" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/s/207644.jpg" />???????ò</a></li>
+
+		<li><a href="/flash/222842.htm"><img alt="?????ú?×" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/11/30/4399_14301580073.jpg" />?????ú?×</a></li>
+
+		<li><a href="/flash/217265.htm"><img alt="?????????ó?°??" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2020/12/16/4399_16473318419.jpg" />?????????ó?°??</a></li>
+
+		<li><a href="/flash/214568.htm"><img alt="?·?????·???ú" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/7/23/4399_15155567411.jpg" />?·?????·???ú</a></li>
+
+		<li><a href="/flash/229925.htm"><img alt="????????????h5" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/9/24/4399_15200150050.jpg" />????????????h5</a></li>
+
+		<li><a href="/flash/222069.htm"><img alt="???à????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/8/20/4399_17260996013.jpg" />???à????</a></li>
+
+		<li><a href="/flash/227798.htm"><img alt="?¨?·?ó????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/6/14/4399_15293134033.jpg" />?¨?·?ó????</a></li>
+
+		<li><a href="/flash/211622.htm"><img alt="?·??????????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/7/29/4399_10505218612.jpg" />?·??????????</a></li>
+
+		<li><a href="/flash/224227.htm"><img alt="?????????ó????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/12/7/4399_15362784784.jpg" />?????????ó????</a></li>
+
+		<li><a href="/flash/218136.htm"><img alt="???°???·" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/2/1/4399_16004624376.jpg" />???°???·</a></li>
+
+		<li><a href="/flash/216937.htm"><img alt="???°???ú????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/11/27/4399_15200058054.jpg" />???°???ú????</a></li>
+
+		<li><a href="/flash/210840.htm"><img alt="?÷????H5" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2020/1/17/4399_09330403347.jpg" />?÷????H5</a></li>
+
+		<li><a href="/flash/220394.htm"><img alt="°?????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/6/4/4399_15351837894.jpg" />°?????????</a></li>
+
+		<li><a href="/flash/212914.htm"><img alt="???????¨??" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2020/5/1/4399_15235609423.jpg" />???????¨??</a></li>
+
+		<li><a href="/flash/207120.htm"><img alt="±???°?????H5" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2019/s/207120.jpg" />±???°?????H5</a></li>
+
+		<li><a href="/flash/225673.htm"><img alt="??????·???H5" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/7/19/4399_11331600934.jpg" />??????·???H5</a></li>
+
+		  </ul>
+
+      <div class="old-ri">
+
+          <p class="old-t1"></p>
+
+          <div class="o-bor1">
+
+		  <a onclick="return tracead('www_classic_benzhoutuijian');" class="old-a" href="//app.4399.cn/"><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/3/26/4399_11251199366.jpg" alt="?????ú???·??????4399" />?????ú???·??????4399</a></div>
+
+          <p class="old-t2"></p>
+
+          <div class="o-bor2 cf">
+
+              <ul class="or-ul">
+
+                				<li><a onclick="return tracead('www_youxitiandi_01');" href="//www.4399.com/special/59.htm"><img alt="??·??????·" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2020/2/5/4399_18122677363.jpg">??·??????·</a></li>
+
+								<li><a onclick="return tracead('www_youxitiandi_02');" href="//www.4399.com/pcgame/"><img alt="???·???·?ó??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2019/5/14/4399_17242464925.jpg">???·???·?ó??</a></li>
+
+								<li><a onclick="return tracead('www_youxitiandi_03');" href="/special/164.htm"><img alt="???°??" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/10/25/4399_09314962726.jpg">???°??</a></li>
+
+								<li><a onclick="return tracead('www_youxitiandi_04');" href="http://news.4399.com/wdshijie/"><img alt="????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2016/5/7/4399_14264005815.jpg">????????</a></li>
+
+								<li><a onclick="return tracead('www_youxitiandi_05');" href="/special/259.htm"><img alt="???á" lzimg="1" lz_src="//imga.5054399.com/upload_pic/2021/10/25/4399_09310840129.jpg">???á</a></li>
+
+								<li><a onclick="return tracead('www_youxitiandi_06');" href="//www.4399.com/special/242.htm "><img alt="????×¨??" lzimg="1" lz_src="//imga.5054399.com/upload_pic/2017/2/3/4399_15140908422.jpg">????×¨??</a></li>
+
+				              </ul>
+
+          </div>
+
+      </div>
+
+</div>
+
+
+
+<div class="fenl cf">	<div class="fenl_lbox">		<div class="tm_tit">
+
+              <span class="tit_ico2"></span>
+
+              <a href="/top/" class="tit_a">???÷?à??????</a>
+
+              <a href="/top/" class="more_1"></a>
+
+        </div>
+
+		<div class="boxes">
+
+          <ul class="fenl_ul">
+
+			 			<li><a href="/flash/219611.htm"><img alt="????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/4/21/4399_17421388606.jpg" />????????</a></li>
+
+						<li><a href="/flash/224589.htm"><img alt="????·????ú?÷??" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/12/23/4399_16422979717.jpg" />????·????ú?÷??</a></li>
+
+						<li><a href="/flash/225668.htm"><img alt="?ê?·??2022X" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/2/22/4399_16364302067.jpg" />?ê?·??2022X</a></li>
+
+						<li><a href="/flash/225798.htm"><img alt="??????????H5" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/3/2/4399_17053644716.jpg" />??????????H5</a></li>
+
+						<li><a href="/flash/196561.htm"><img alt="?????????????????÷" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/s/196561.jpg" />?????????????????÷</a></li>
+
+						<li><a href="https://news.4399.com/hxjy/"><img alt="4399????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/11/4399_14150301253.jpg" />4399????????</a></li>
+
+						<li><a href="/flash/218698.htm"><img alt="????????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/3/5/4399_16241093446.jpg" />????????</a></li>
+
+						<li><a href="/flash/220765.htm"><img alt="????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/7/5/4399_13421023101.jpg" />????????</a></li>
+
+						<li><a href="/flash/225818.htm"><img alt="????????????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/3/3/4399_15253761950.jpg" />????????????</a></li>
+
+						<li><a href="//my.4399.com/yxtk/"><img alt="3D????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/5/4399_10354837646.jpg" />3D????</a></li>
+
+			          </ul>
+
+		</div>
+
+    </div>
+
+	<div class="fenl_rbox">		<div class="tm_tit">
+
+              <span class="tit_ico2"></span>
+
+              <a href="/top/" class="tit_a">??×÷?à??????</a>
+
+              <a href="/top/" class="more_1"></a>
+
+        </div>
+
+		<div class="boxes">
+
+          <ul class="fenl_ul">
+
+			 			<li><a href="/flash/222039.htm"><img alt="?????????÷????2H5" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/8/19/4399_16211060630.jpg" />?????????÷????2H5</a></li>
+
+						<li><a href="/flash/223285.htm"><img alt="???????÷??????H5" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/10/23/4399_13380101086.jpg" />???????÷??????H5</a></li>
+
+						<li><a href="/flash/225008.htm"><img alt="????????2" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/1/14/4399_10582154772.jpg" />????????2</a></li>
+
+						<li><a href="/flash/220332.htm"><img alt="????????????????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/6/2/4399_15034931436.jpg" />????????????????</a></li>
+
+						<li><a href="/flash/223243.htm"><img alt="?????÷??" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/10/21/4399_19475500041.jpg" />?????÷??</a></li>
+
+						<li><a href="/flash/216720.htm"><img alt="???·????H5" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2020/11/16/4399_19202004589.jpg" />???·????H5</a></li>
+
+						<li><a href="/flash/223265.htm"><img alt="????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/10/22/4399_15325759785.jpg" />????????</a></li>
+
+						<li><a href="/flash/228494.htm"><img alt="??·ò??????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/7/18/4399_15424397455.jpg" />??·ò??????</a></li>
+
+						<li><a href="/flash/226038.htm"><img alt="?°????????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/3/15/4399_15010577864.jpg" />?°????????</a></li>
+
+						<li><a href="/flash/221887.htm"><img alt="???????ò??????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/8/12/4399_15231781143.jpg" />???????ò??????</a></li>
+
+			          </ul>
+
+		</div>
+
+    </div>
+
+</div><div class="fenl cf">	<div class="fenl_lbox">		<div class="tm_tit">
+
+              <span class="tit_ico2"></span>
+
+              <a href="/top/" class="tit_a">?????à&?????à??????</a>
+
+              <a href="/top/" class="more_1"></a>
+
+        </div>
+
+		<div class="boxes">
+
+          <ul class="fenl_ul">
+
+			 			<li><a href="/flash/seer.htm"><img alt="?ü????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/7/16/4399_15274364139.jpg" />?ü????</a></li>
+
+						<li><a href="/flash/227831.htm"><img alt="?????ù°????è" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/6/15/4399_16190188709.jpg" />?????ù°????è</a></li>
+
+						<li><a href="/flash/219311.htm"><img alt="????????H5" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/5/17/4399_13443970357.jpg" />????????H5</a></li>
+
+						<li><a href="/flash/201923.htm"><img alt="??????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/s/201923.jpg" />??????</a></li>
+
+						<li><a href="/flash/202459.htm"><img alt="?????ó?¤?ó×÷??" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/s/202459.jpg" />?????ó?¤?ó×÷??</a></li>
+
+						<li><a href="/flash/197940.htm"><img alt="??????????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2019/s/197940.jpg" />??????????????</a></li>
+
+						<li><a href="/flash/227732.htm"><img alt="?????ó?°??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/6/11/4399_11013031011.jpg" />?????ó?°??</a></li>
+
+						<li><a href="/flash/216951.htm"><img alt="?¤????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2020/11/27/4399_17251636622.jpg" />?¤????????</a></li>
+
+						<li><a href="/flash/225993.htm"><img alt="???¨???ú??2H5" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/3/11/4399_16512171978.jpg" />???¨???ú??2H5</a></li>
+
+						<li><a href="/flash/145039.htm"><img alt="??????????×????é" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/small/145039.jpg" />??????????×????é</a></li>
+
+			          </ul>
+
+		</div>
+
+    </div>
+
+	<div class="fenl_rbox">		<div class="tm_tit">
+
+              <span class="tit_ico2"></span>
+
+              <a href="/top/" class="tit_a">?°???à??????</a>
+
+              <a href="/top/" class="more_1"></a>
+
+        </div>
+
+		<div class="boxes">
+
+          <ul class="fenl_ul">
+
+			 			<li><a href="/flash/152991.htm"><img alt="??×ì??????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/small/152991.jpg" />??×ì??????</a></li>
+
+						<li><a href="/flash/219039.htm"><img alt="???ú??????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/3/29/4399_09312419423.jpg" />???ú??????</a></li>
+
+						<li><a href="/flash/228178.htm"><img alt="?????????ó?°??2" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/7/1/4399_17103233961.jpg" />?????????ó?°??2</a></li>
+
+						<li><a href="/flash/220261.htm"><img alt="??????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/5/29/4399_14574252769.jpg" />??????????</a></li>
+
+						<li><a href="/flash/216866.htm"><img alt="??????±?" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2020/11/24/4399_16010195126.jpg" />??????±?</a></li>
+
+						<li><a href="/flash/218131.htm"><img alt="????????????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/2/1/4399_15252922817.jpg" />????????????????</a></li>
+
+						<li><a href="/flash/212227.htm"><img alt="?ì???????°??H5" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/3/31/4399_15112251926.jpg" />?ì???????°??H5</a></li>
+
+						<li><a href="/flash/197637.htm"><img alt="???????????ó???÷" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2019/s/197637.jpg" />???????????ó???÷</a></li>
+
+						<li><a href="/flash/201653.htm"><img alt="±ù????????4" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/s/201653.jpg" />±ù????????4</a></li>
+
+						<li><a href="/flash/200808.htm"><img alt="????±???????3" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/s/200808.jpg" />????±???????3</a></li>
+
+			          </ul>
+
+		</div>
+
+    </div>
+
+</div><div class="fenl cf">	<div class="fenl_lbox">		<div class="tm_tit">
+
+              <span class="tit_ico2"></span>
+
+              <a href="/top/" class="tit_a">?????à&????????????</a>
+
+              <a href="/top/" class="more_1"></a>
+
+        </div>
+
+		<div class="boxes">
+
+          <ul class="fenl_ul">
+
+			 			<li><a href="/flash/207651.htm"><img alt="·?????H5" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/s/207651.jpg" />·?????H5</a></li>
+
+						<li><a href="/flash/195498.htm"><img alt="?±?????§" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/s/195498.jpg" />?±?????§</a></li>
+
+						<li><a href="/flash/142022.htm"><img alt="???ú?ó??H5°?" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2019/small/142022.jpg" />???ú?ó??H5°?</a></li>
+
+						<li><a href="/flash/202813.htm"><img alt="??????????3D2" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/s/202813.jpg" />??????????3D2</a></li>
+
+						<li><a href="/flash/207818.htm"><img alt="?ó????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/s/207818.jpg" />?ó????</a></li>
+
+						<li><a href="/flash/226067.htm"><img alt="·??é?????????????ü" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/4/12/4399_16192569431.jpg" />·??é?????????????ü</a></li>
+
+						<li><a href="/flash/153441.htm"><img alt="????????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/small/153441.jpg" />????????????</a></li>
+
+						<li><a href="/flash/201798.htm"><img alt="??×???" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/s/201798.jpg" />??×???</a></li>
+
+						<li><a href="/flash/110975.htm"><img alt="?????ò?é??" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2018/7/27/4399_16041261865.jpg" />?????ò?é??</a></li>
+
+						<li><a href="/flash/201247.htm"><img alt="??????????" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2019/s/201247.jpg" />??????????</a></li>
+
+			          </ul>
+
+		</div>
+
+    </div>
+
+	<div class="fenl_rbox">		<div class="tm_tit">
+
+              <span class="tit_ico2"></span>
+
+              <a href="/top/" class="tit_a">?????à??????</a>
+
+              <a href="/top/" class="more_1"></a>
+
+        </div>
+
+		<div class="boxes">
+
+          <ul class="fenl_ul">
+
+			 			<li><a href="/flash/221846.htm"><img alt="??????·????????ò" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/8/10/4399_16494998347.jpg" />??????·????????ò</a></li>
+
+						<li><a href="/flash/221639.htm"><img alt="????×??ò??±ê?ü" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/7/31/4399_15015551329.jpg" />????×??ò??±ê?ü</a></li>
+
+						<li><a href="/flash/223245.htm"><img alt="???°????????????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/10/21/4399_17435415605.jpg" />???°????????????</a></li>
+
+						<li><a href="/flash/159811.htm"><img alt="???????°7" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/small/159811.jpg" />???????°7</a></li>
+
+						<li><a href="/flash/196986.htm"><img alt="?????¨?ò?????ü" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/s/196986.jpg" />?????¨?ò?????ü</a></li>
+
+						<li><a href="/flash/219298.htm"><img alt="???°????×?????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/4/6/4399_15063691571.jpg" />???°????×?????</a></li>
+
+						<li><a href="/flash/221265.htm"><img alt="?????????????ü" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/7/14/4399_16593219708.jpg" />?????????????ü</a></li>
+
+						<li><a href="/flash/204457.htm"><img alt="???°ì???5" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2019/s/204457.jpg" />???°ì???5</a></li>
+
+						<li><a href="/flash/216072.htm"><img alt="?????ó×÷??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/12/23/4399_17432246193.jpg" />?????ó×÷??</a></li>
+
+						<li><a href="/flash/201122.htm"><img alt="?????ò???·??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2019/s/201122.jpg" />?????ò???·??</a></li>
+
+			          </ul>
+
+		</div>
+
+    </div>
+
+</div>
+
+<div class="lf_game cf">
+
+	<div class="tm_tit">
+
+        <span class="tit_ico2"></span>
+
+        <a class="tit_a" href="/special/19.htm">???????·×¨??</a>
+
+        <a class="more_1" href="/special/19.htm"></a>
+
+        <a class="s-link" href="/special/19_server.htm">??·???±í</a>
+
+    </div>
+
+    <ul class="tm_list lf_ul">
+
+		        <li><a href="https://my.4399.com/yxsgs/"><img alt="4399???ú?±" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/3/18/4399_18063845841.jpg">4399???ú?±</a></li>
+
+		        <li><a href="https://ssjj.4399.com/"><img alt="?ú?????÷" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2016/10/27/4399_15454748568.jpg">?ú?????÷</a></li>
+
+		        <li><a href="https://my.4399.com/yxdldl3d/"><img alt="???ú????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/9/19/4399_16191955386.jpg">???ú????</a></li>
+
+		        <li><a href="//www.4399.com/flash/226255.htm"><img alt="4399??±?????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/3/25/4399_16261896617.jpg">4399??±?????</a></li>
+
+		        <li><a href="//my.4399.com/yxsgkd/"><img alt="4399???ú?ì?ò" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/9/25/4399_16533619743.jpg">4399???ú?ì?ò</a></li>
+
+		        <li><a href="//my.4399.com/yxqjz/"><img alt="4399???ú??????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/8/4/4399_14072288548.jpg">4399???ú??????</a></li>
+
+		        <li><a href="/flash/12439.htm"><img alt="4399??????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/2/6/4399_15470014779.jpg">4399??????</a></li>
+
+		        <li><a href="https://my.4399.com/yxmsdzls/"><img alt="?????ó?????ó" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2023/1/13/4399_11253364934.jpg">?????ó?????ó</a></li>
+
+		        <li><a href="//www.4399.com/flash/218874.htm"><img alt="4399????°??÷" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2021/10/11/4399_14105918589.jpg">4399????°??÷</a></li>
+
+		        <li><a href="https://news.4399.com/hxjy/"><img alt="4399????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/11/4399_14150301253.jpg">4399????????</a></li>
+
+		        <li><a href="//my.4399.com/yxsj/"><img alt="4399????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/11/26/4399_16191344478.jpg">4399????</a></li>
+
+		        <li><a href="//my.4399.com/yxxxtjd/"><img alt="4399???????÷??" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/6/24/4399_10470602028.jpg">4399???????÷??</a></li>
+
+		        <li><a href="/flash/159974.htm"><img alt="4399???¤?÷????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/10/12/4399_15570904010.jpg">4399???¤?÷????</a></li>
+
+		        <li><a href="//my.4399.com/yxbzsc/"><img alt="4399°???????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/1/19/4399_16221205395.jpg">4399°???????</a></li>
+
+		        <li><a href="//www.4399.com/flash/212588.htm"><img alt="4399?§????2" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/9/13/4399_17120692183.jpg">4399?§????2</a></li>
+
+		        <li><a href="//www.4399.com/flash/228701.htm"><img alt="4399???ì??" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/7/27/4399_14232864657.jpg">4399???ì??</a></li>
+
+		        <li><a href="//my.4399.com/yxtouch/"><img alt="4399Touch????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/3/22/4399_17110113548.jpg">4399Touch????</a></li>
+
+		        <li><a href="//my.4399.com/yxsgqyz/"><img alt="4399???ú??????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/8/19/4399_16512106091.jpg">4399???ú??????</a></li>
+
+		    </ul>
+
+</div>
+
+
+
+<div class="lf_game cf" id="h5">
+
+		<div class="tm_tit">
+
+			<span class="tit_ico2"></span>
+
+			<a class="tit_a" href="//h.4399.com/">H5??????</a>
+
+			<a class="more_1" href="//h.4399.com/"></a>
+
+		</div>
+
+		<ul class="tm_list lf_ul">
+
+		        <li><a href="/flash/232096.htm"><span class="new"></span><img alt="?????ú?÷???°??" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2023/1/18/4399_17385623996.jpg">?????ú?÷???°??</a></li>
+
+		        <li><a href="/flash/232069.htm"><span class="new"></span><img alt="????????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/18/4399_13593387733.jpg">????????????</a></li>
+
+		        <li><a href="/flash/232213.htm"><img alt="???ú???????ê?ó???·" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2023/1/31/4399_15025902700.jpg">???ú???????ê?ó???·</a></li>
+
+		        <li><a href="/flash/231642.htm"><img alt="?????????¤??2" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/12/21/4399_15363864416.jpg">?????????¤??2</a></li>
+
+		        <li><a href="/flash/231638.htm"><img alt="???ú?ó???·2" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/12/21/4399_15061134098.jpg">???ú?ó???·2</a></li>
+
+		        <li><a href="/flash/232054.htm"><img alt="??????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2023/1/17/4399_17481939530.jpg">??????????</a></li>
+
+		        <li><a href="/flash/231525.htm"><img alt="??×???????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/12/15/4399_17073699623.jpg">??×???????</a></li>
+
+		        <li><a href="/flash/205933.htm"><img alt="???????ü" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/5/21/4399_16471576860.jpg">???????ü</a></li>
+
+		        <li><a href="/flash/231456.htm"><img alt="???ò???ò??" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/12/12/4399_17280549610.jpg">???ò???ò??</a></li>
+
+		        <li><a href="/flash/231393.htm"><img alt="?????ü??" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/12/8/4399_16304199718.jpg">?????ü??</a></li>
+
+		        <li><a href="/flash/231728.htm"><img alt="???????ó?????????????ú??100??" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/12/27/4399_15205882197.jpg">???????ó?????????????ú??100??</a></li>
+
+		        <li><a href="/flash/231644.htm"><img alt="??????·??·" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/12/21/4399_16100602113.jpg">??????·??·</a></li>
+
+		        <li><a href="/flash/231589.htm"><img alt="?????????ê?ó×÷??" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/12/19/4399_16242827889.jpg">?????????ê?ó×÷??</a></li>
+
+		        <li><a href="/flash/231009.htm"><img alt="??±???????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/21/4399_16584987113.jpg">??±???????</a></li>
+
+		        <li><a href="/flash/231279.htm"><img alt="??????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/12/2/4399_19193822205.jpg">??????????</a></li>
+
+		        <li><a href="/flash/230804.htm"><img alt="????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/11/10/4399_16084618984.jpg">????????</a></li>
+
+		        <li><a href="/flash/231010.htm"><img alt="??×??????ó×÷??" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/11/22/4399_16245715337.jpg">??×??????ó×÷??</a></li>
+
+		        <li><a href="/flash/230204.htm"><img alt="????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/10/12/4399_16485169022.jpg">????????</a></li>
+
+		        <li><a href="/flash/228372.htm"><img alt="???§???ì??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2022/7/12/4399_13505043230.jpg">???§???ì??</a></li>
+
+		        <li><a href="/flash/229394.htm"><img alt="??????×÷??3" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/8/30/4399_15274294656.jpg">??????×÷??3</a></li>
+
+		        <li><a href="/flash/229418.htm"><img alt="?????·?·" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/8/31/4399_14372294708.jpg">?????·?·</a></li>
+
+		        <li><a href="/flash/222710.htm"><img alt="???é????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/9/22/4399_17454640908.jpg">???é????</a></li>
+
+		        <li><a href="/flash/227420.htm"><img alt="?°?????ó??°?" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2022/5/25/4399_14444151183.jpg">?°?????ó??°?</a></li>
+
+		        <li><a href="/flash/223605.htm"><img alt="???????ó×÷??" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/11/8/4399_16414925273.jpg">???????ó×÷??</a></li>
+
+		        <li><a href="/flash/208699.htm"><img alt="?é?ê????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2019/9/12/4399_15203988696.jpg">?é?ê????</a></li>
+
+		        <li><a href="/flash/195908.htm"><img alt="????°??÷" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/12/24/4399_13451118032.jpg">????°??÷</a></li>
+
+		        <li><a href="/flash/223702.htm"><img alt="????×???" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/11/12/4399_10452699330.jpg">????×???</a></li>
+
+		        <li><a href="/flash/225004.htm"><img alt="????????" lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/1/14/4399_10412090315.jpg">????????</a></li>
+
+		        <li><a href="/flash/208271.htm"><img alt="???ò??????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/s/208271.jpg">???ò??????</a></li>
+
+		        <li><a href="/flash/222096.htm"><img alt="??????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/8/23/4399_15372697366.jpg">??????????</a></li>
+
+		        <li><a href="/flash/212552.htm"><img alt="???????ó?°??" lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2020/4/15/4399_16311873381.jpg">???????ó?°??</a></li>
+
+		        <li><a href="/flash/203946.htm"><img alt="??????????" lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2019/s/203946.jpg">??????????</a></li>
+
+		        <li><a href="/flash/208498.htm"><img alt="?????????ù" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2019/9/3/4399_18313594366.jpg">?????????ù</a></li>
+
+		        <li><a href="/flash/207710.htm"><img alt="?????ü??" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2019/9/11/4399_11112193423.jpg">?????ü??</a></li>
+
+		        <li><a href="/flash/212088.htm"><img alt="·??é?????ó????" lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2020/3/25/4399_11420194029.jpg">·??é?????ó????</a></li>
+
+		        <li><a href="/flash/206235.htm"><img alt="?????ó????" lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2019/s/206235.jpg">?????ó????</a></li>
+
+				</ul>
+
+	</div>
+
+<div class="lf_game" id="yule">
+
+	<div class="tm_tit">
+
+        <span class="tit_ico2"></span>
+
+        <a class="tit_a" href="//www.4399dmw.com/donghua/">????????</a>
+
+        <a class="more_1" href="//www.4399dmw.com/donghua/"></a>
+
+        <span class="tit_ico5"></span>
+
+    </div>
+
+    <div class="lt cf">
+
+        <div class="tit-n" style="height:0px;">
+
+            
+
+        </div>
+
+				<div id="cntsp20" class="videolist2">
+
+			<ul class="video">
+
+								<li><a href="//www.4399dmw.com/dh/hyxzsds/"><em>??????</em><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/11/29/4399_14075379374.jpg" />???°??×????ó??</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/kjqdcsfyk/"><em>??????</em><img lzimg="1" lz_src="//imga.5054399.com/upload_pic/2022/12/28/4399_15300592765.jpg" />????????·????¨</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/bllxmxzmfxy/"><em>??????</em><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/5/17/4399_16014250903.jpg" />?§·¨????±¤</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/shaonianbaima/"><em>??????</em><img lzimg="1" lz_src="//imga.5054399.com/upload_pic/2022/12/28/4399_15295201267.jpg" />???ê°×?í×í??·?</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/cmdsldej/"><em>??????</em><img lzimg="1" lz_src="//imga1.5054399.com/upload_pic/2021/11/12/4399_16294748609.jpg" />???÷??????????????×???????</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/jlmyll9/"><em>??????</em><img lzimg="1" lz_src="//imga.5054399.com/upload_pic/2022/11/8/4399_10590232536.jpg" />????????????</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/kscrshcj/"><em>??????</em><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/12/16/4399_16173908808.jpg" />????????</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/jwjxy/"><em>??????</em><img lzimg="1" lz_src="//imga.5054399.com/upload_pic/2021/11/12/4399_16302486611.jpg" />????????????????</a></li>
+
+								<li><a href="//www.4399dmw.com/haimianbaobao/donghua/"><em>??????</em><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2021/11/12/4399_16303283528.jpg" />???à±?±???????</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/xyyyhtlzydyxz/"><em>??????</em><img lzimg="1" lz_src="//imga.5054399.com/upload_pic/2022/7/1/4399_14315595269.jpg" />??????????</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/syxyx4/"><em>??????</em><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2022/12/19/4399_15190007157.jpg" />??????????4</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/jtszbzj/"><em>??????</em><img lzimg="1" lz_src="//imga5.5054399.com/upload_pic/2022/12/19/4399_15191820457.jpg" />???ì???÷??????</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/xxly4/"><em>??????</em><img lzimg="1" lz_src="//imga4.5054399.com/upload_pic/2021/11/5/4399_09305848100.jpg" />???????°4</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/xsyjdsj/"><em>??????</em><img lzimg="1" lz_src="//imga3.5054399.com/upload_pic/2021/11/5/4399_09311078643.jpg" />???ó????</a></li>
+
+								<li><a href="//www.4399dmw.com/dh/zzsjxt/"><em>??????</em><img lzimg="1" lz_src="//imga2.5054399.com/upload_pic/2022/12/8/4399_11263524929.jpg" />??×?????????</a></li>
+
+							</ul>
+
+		</div>
+
+			    </div>
+
+</div>
+
+<div class="games">
+
+	<a class="g_line" href="/flash/">×????????·</a>
+
+	<ul class="games_ul">
+
+		<li></li>
+
+        		<li><a href="/flash/232314.htm">???à??°ì????</a></li>
+
+				<li><a href="/flash/232313.htm">??????·?????</a></li>
+
+				<li><a href="/flash/232310.htm">?°???????????×</a></li>
+
+				<li><a href="/flash/232309.htm">??×????é</a></li>
+
+				<li><a href="/flash/232308.htm">??????????</a></li>
+
+				<li><a href="/flash/232307.htm">???¤???§</a></li>
+
+				<li><a href="/flash/232306.htm">±í?é?ò??×ê??</a></li>
+
+				<li><a href="/flash/232305.htm">?°?????ú</a></li>
+
+				<li><a href="/flash/232304.htm">????????</a></li>
+
+				<li><a href="/flash/232303.htm">??°?????????????</a></li>
+
+				<li><a href="/flash/232302.htm">×????????ú</a></li>
+
+				<li><a href="/flash/232300.htm">??????????????</a></li>
+
+				<li><a href="/flash/232289.htm">????·?????????</a></li>
+
+				<li><a href="/flash/232287.htm">???????????ó?ó</a></li>
+
+				<li><a href="/flash/232286.htm">????????</a></li>
+
+				<li><a href="/flash/134302.htm">3D????????</a></li>
+
+				<li><a href="/flash/173634.htm">×???????</a></li>
+
+				<li><a href="/flash/209567.htm">?ó±??????ú2</a></li>
+
+				<li><a href="/flash/130389.htm">???????????è?á</a></li>
+
+				<li><a href="/flash/59227.htm">????????×?</a></li>
+
+				<li><a href="/flash/88902.htm">·è???÷·ò????????</a></li>
+
+				<li><a href="/flash/137116.htm">????????</a></li>
+
+				<li><a href="/flash/3883.htm">?????ó?¤????°?</a></li>
+
+				<li><a href="/flash/171322.htm">???ù???à?ê</a></li>
+
+				<li><a href="/flash/155476.htm">???????§·??é</a></li>
+
+				<li><a href="/flash/155283.htm">??????????????</a></li>
+
+				<li><a href="/flash/109832.htm">?????ó??</a></li>
+
+				<li><a href="/flash/221784.htm">?ó????????2021</a></li>
+
+				<li><a href="/flash/93015.htm">???????°????</a></li>
+
+				<li><a href="/flash/107884.htm">?ü??</a></li>
+
+				<li><a href="/flash/63805.htm">????±????ó??</a></li>
+
+				<li><a href="/flash/79452.htm">????±ù????3</a></li>
+
+				<li><a href="/flash/160944.htm">???ò?ú?ó????</a></li>
+
+				<li><a href="/flash/191203.htm">?????·???ú3D</a></li>
+
+				<li><a href="/flash/201463.htm">·??é???????ó?°??</a></li>
+
+				<li><a href="/flash/41193.htm">??????ì?????°?</a></li>
+
+				<li><a href="/flash/195673.htm">±???????</a></li>
+
+				<li><a href="/flash/221114.htm">????????</a></li>
+
+				<li><a href="/flash/22287.htm">?ó?????±?ú</a></li>
+
+				<li><a href="/flash/69112.htm">???ú?ì?ò</a></li>
+
+				<li><a href="/flash/15548.htm">?ú?·??×?</a></li>
+
+				<li><a href="/flash/145991.htm">???ò°??÷2</a></li>
+
+				<li><a href="/flash/69156.htm">???????ê</a></li>
+
+				<li><a href="/flash/206352.htm">???ú?ó???á</a></li>
+
+				<li><a href="/flash/83345.htm">????????</a></li>
+
+				<li><a href="/flash/21552.htm">???÷????2</a></li>
+
+				<li><a href="/flash/122099.htm">??????·???</a></li>
+
+		    </ul>
+
+</div>
+
+<div class="links"><a href="/"><b>4399?????·</b></a>|
+
+<a href="/flash/seer.htm"><b>?ü????</b></a>|
+
+<a href="//a.4399.cn/">°?×????·</a>|
+
+<a href="//www.uuu9.com/">??????</a>|
+
+<a href="http://news.4399.com/wzlm/zixun/tyf/">???????????é·?</a>|
+
+<a href="//www.870.com/">870???·</a>|
+
+<a href="//caipiao.ip138.com/">???±???±?é??</a>|
+
+<a href="//wm.4399sy.com/">???÷???÷·?</a>|
+
+<a href="//www.3839.com/">?????ì±?</a>|
+
+<a href="http://news.4399.com/yssy/">????????</a>|
+
+<a href="//app.4399.cn/cloudGame.html">4399?????·</a>|
+
+<a href="http://news.4399.com/wzlm/">????????????</a><br>
+
+
+
+<a href="//www.4399.cn/">4399???ú???·??</a>|
+
+<a href="/special/1.htm">?????????·</a>|
+
+<a href="//h.4399.com/">H5???·</a>|
+
+<a href="//yxhhd2.5054399.com/2021/ys3/">?????????¤??</a>|
+
+<a href="/flash/zmhj.htm">?ì???÷??online</a>|
+
+<a href="//www.3839.com/a/95654.htm">???????????é·?</a>|
+
+<a href="http://news.4399.com/smzhsy/">???ü????????</a>|
+
+<a href="https://ssjj.4399.com/">?ú?????÷</a>|
+
+<a href="//www.ip138.com/">IP138?é??</a>|
+
+<a href="//bifen.ip138.com/">?????ü??±?·?</a>|
+
+<a href="//my.4399.com/yxssjj2/">?ú?????÷2</a><br>
+
+
+
+<a href="//www.3839.com/a/113508.htm">????????????</a>|
+
+<a href="//app.4399.cn/">4399???·??</a>|
+
+<a href="//www.4399dmw.com/donghua/">???????ó??</a>|
+
+<a href="http://news.4399.com/pubgsy/">????????</a>|
+
+<a href="//a.4399.cn/game-id-131216.html">????×??°</a>|
+
+<a href="//a.4399.cn/game-id-122210.html">°?±???????</a>|
+
+<a href="http://news.4399.com/">4399???·×???</a>|
+
+<a href="//www.4399dmw.com/">??????</a>|
+
+<a href="//www.4399.com/"><b>?????·</b></a>|
+
+<a href="//www.4399dmw.com/news/">????????</a>|
+
+<a href="//www.3000.com/">????</a>|
+
+<a href="//www.4399youpai.com/">4399????</a>|
+
+<a href="//www.gamekipo.com/">gamekipo</a>|
+
+<a href="//a.4399.cn/officialSite-carLife.html">?¨?????ú</a></div>
+
+<div class="copy">
+
+<div class="copy_t">×÷?·°??¨?é×÷???ù??????????·????ú??°??¨????<a href="//my.4399.com/joinus/contact.html">????????</a>??±???????3???¤×÷??????????<br><span>???°?á????</span>???????????·????????°????·??×???×???±??¤???÷·????????±?????????·?????????????·???í?????í°????±?????í???????ú??</div>
+
+<div class="copy_c">
+
+<a href="//my.4399.com/joinus/index.html">????±???</a>|<a href="//my.4399.com/joinus/contact.html">????±???</a>|<a href="/gameupload.htm">???··???</a>|<a href="//open.4399.cn/console/">4399??·????¨</a>|<a href="//www.4399.com/gongyi/">4399????</a>|<a href="//my.4399.com/joinus/zhaopin.html">????????</a>|<a href="//ptlogin.4399.com/resource/protocol.html?type=1&aids=1,2,3,6,7,10">????????</a>|<a href="/feedback.htm" class="fk"><em></em>????·???</a>|&nbsp;??×???<a class="wb" rel="nofollow" href="//weibo.com/my4399"></a><a class="tx" rel="nofollow" href=""></a><a href="/xmzygzh/">????????????</a><br>
+
+<a rel="nofollow" href="http://ccm.mct.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/9F5113E34F5E4443A68F11E8A6E2685C" class="moc"></a><a href="http://ccm.mct.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/9F5113E34F5E4443A68F11E8A6E2685C" rel="nofollow">????????2021??4071-076??</a>|<a rel="nofollow" href="/zs/chuban.html">?¨?????????¤?¨????×???015??</a>|<a rel="nofollow" target="_blank" href="https://beian.miit.gov.cn/#/Integrated/index#/Integrated/index">ICP?¤??B2-20040099</a>|<a rel="nofollow" href="//www.beian.gov.cn/portal/registerSystemInfo?recordcode=35020302000081"><i class="ghs"></i>??????°?±? 35020302000081??</a>|<a href="/notice/banquan.htm">°??¨±??¤????????</a>|<a href="/notice.html">·??????ù?÷</a><br>
+
+<a rel="nofollow" href="//www.piyao.org.cn/yybgt/index.htm">?????????????¨</a>|<a rel="nofollow" href="http://jubao.fjsen.com/">??±¨±??????¨</a>|<a rel="nofollow" href="//www.12377.cn/">??????????????±¨×¨??</a>???????ê????±¨×¨??????·×???í?°??????????±¨???°??4006834399(×?6)|??±¨??????jubao@4399.com|<a href="//u.4399.com/jianhu/">?????ê?????¤?à?¤</a><br>
+
+Copyright &copy; 2004 - 2023 4399.com All Rights Reserved. ??????????????·????????? °??¨?ù??
+
+</div>
+
+<div class="wechat-QR"><img src="/images/i2016/QR.png">?????¨???¨<br>??×?4399?????·</div>
+
+</div>
+
+<script language="javascript">
+
+var piccount = 1;
+
+var basic_game_info = [[151038,'?ì???÷??4','/flash/151038.htm#index0','//imga4.5054399.com/upload_pic/2021/5/27/4399_10271227940.jpg'],[71403,'4399??????°?','//zuopin.4399.com/tuya/#index0','//imga4.5054399.com/upload_pic/2016/2/29/4399_17484422351.jpg'],[118852,'?ú?????÷','https://ssjj.4399.com/#index0','//imga3.5054399.com/upload_pic/2016/10/27/4399_15454748568.jpg'],[1382,'?è????????2.5°?','/flash/1382.htm#index0','//imga3.5054399.com/upload_pic/2016/9/22/4399_17493914511.jpg'],[110116,'????wing1.85????°?','/flash/110116.htm#index0','//imga2.5054399.com/upload_pic/2016/2/25/4399_09330091389.jpg'],[3881,'Q°???????','/flash/3881.htm#index0','//imga2.5054399.com/upload_pic/2016/2/25/4399_09220465358.jpg'],[176245,'????VS???°2.6','/flash/176245.htm#index0','//imga1.5054399.com/upload_pic/2016/6/27/4399_15415102420.jpg'],[96275,'?ì????·???3','/flash/96275.htm#index0','//imga1.5054399.com/upload_pic/2016/2/25/4399_09273734355.jpg'],[113790,'??????????°?','/flash/113790.htm#index0','//imga1.5054399.com/upload_pic/2016/2/20/4399_16124255586.jpg'],[133630,'Q°???????7','/flash/133630.htm#index0','//imga1.5054399.com/upload_pic/2016/2/25/4399_09351876854.jpg'],[127539,'4399????????','https://news.4399.com/hxjy/#index0','//imga5.5054399.com/upload_pic/2022/11/11/4399_14150301253.jpg'],[172188,'?÷????????','/flash/172188.htm#index0','//imga4.5054399.com/upload_pic/2021/2/24/4399_15535027319.jpg'],[90302,'???????ò?????ò2','/flash/90302.htm#index0','//imga3.5054399.com/upload_pic/2016/2/25/4399_09272483064.jpg'],[18012,'?????ó??????','/flash/18012.htm#index0','//imga3.5054399.com/upload_pic/2016/2/18/4399_18432063237.jpg'],[130254,'??×à?ó??','/flash/130254.htm#index0','//imga5.5054399.com/upload_pic/2016/2/24/4399_20052697338.jpg'],[124679,'???????¨????','/flash/124679.htm#index0','//imga5.5054399.com/upload_pic/2016/2/23/4399_17063937456.jpg'],[73386,'?ì????????3','/flash/73386.htm#index0','//imga2.5054399.com/upload_pic/2016/2/25/4399_09264656496.jpg'],[17801,'?è????????3.1','/flash/17801.htm#index0','//imga2.5054399.com/upload_pic/2016/2/22/4399_17213062473.jpg'],[130635,'°?°??????ù????°??ó?°??','/flash/130635.htm#index0','//imga1.5054399.com/upload_pic/2019/8/8/4399_11000180171.jpg'],[117227,'???????é??2','/flash/117227.htm#index0','//imga3.5054399.com/upload_pic/2016/2/20/4399_16021693663.jpg'],[54423,'4399?ò????','/flash/54423.htm#index0','//imga4.5054399.com/upload_pic/2016/2/22/4399_20085427468.jpg'],[10305,'??????×??ü??','/flash/10305.htm#index0','//imga1.5054399.com/upload_pic/2016/2/23/4399_16424729120.jpg'],[93398,'?ó????????????°?','/flash/93398.htm#index0','//imga4.5054399.com/upload_pic/2016/2/23/4399_20042692877.jpg']];
+
+var basic_game_info_play = [[78072,'?ì???÷??3','/flash/78072.htm#history0','//imga3.5054399.com/upload_pic/2021/5/14/4399_11313629194.jpg',1],[71403,'4399??????°?','//zuopin.4399.com/tuya/#history0','//imga4.5054399.com/upload_pic/2016/2/29/4399_17484422351.jpg',1],[118852,'?ú?????÷','https://ssjj.4399.com/#history0','//imga3.5054399.com/upload_pic/2016/10/27/4399_15454748568.jpg',1],[133630,'Q°???????7','/flash/133630.htm#history0','//imga1.5054399.com/upload_pic/2016/2/25/4399_09351876854.jpg',1],[20660,'????±ù????????°?','/flash/20660.htm#history0','//imga1.5054399.com/upload_pic/2016/2/22/4399_17341879193.jpg',1],[176245,'????VS???°2.6','/flash/176245.htm#history0','//imga1.5054399.com/upload_pic/2016/6/27/4399_15415102420.jpg',1],[131667,'±??????·????°?2','/flash/131667.htm#history0','//imga3.5054399.com/upload_pic/2016/2/25/4399_09351176342.jpg',1],[112909,'???í????2','/flash/112909.htm#history0','//imga5.5054399.com/upload_pic/2016/2/26/4399_10084980523.jpg',1],[136667,'?????ê?á??????°?','/flash/136667.htm#history0','//imga3.5054399.com/upload_pic/2016/2/23/4399_20273241244.jpg',1],[21674,'?????°??2????°?','/flash/21674.htm#history0','//imga5.5054399.com/upload_pic/2016/2/29/4399_16164276015.jpg',1],[127319,'?????????°??????°?','/flash/127319.htm#history0','//imga5.5054399.com/upload_pic/2016/2/24/4399_13142843236.jpg',1],[1382,'?è????????2.5°?','/flash/1382.htm#history0','//imga3.5054399.com/upload_pic/2016/9/22/4399_17493914511.jpg',1],[48399,'?¨???÷??','/flash/48399.htm#history0','//imga5.5054399.com/upload_pic/2017/9/6/4399_16011281451.jpg',1],[93551,'???ù??°????è????°?','/flash/93551.htm#history0','//imga2.5054399.com/upload_pic/2017/1/24/4399_10181217218.jpg',1],[73386,'?ì????????3','/flash/73386.htm#history0','//imga2.5054399.com/upload_pic/2016/2/25/4399_09264656496.jpg',1],[1602,'?????ó?¤????°?','/flash/1602.htm#history0','//imga3.5054399.com/upload_pic/2016/2/23/4399_20060138878.jpg',1],[93398,'?ó????????????°?','/flash/93398.htm#history0','//imga4.5054399.com/upload_pic/2016/2/23/4399_20042692877.jpg',1],[127539,'4399????????','https://news.4399.com/hxjy/#history0','//imga5.5054399.com/upload_pic/2022/11/11/4399_14150301253.jpg',1],[171322,'???ù???à?ê','/flash/171322.htm#history0','//imga3.5054399.com/upload_pic/2016/3/15/4399_09400836256.jpg',1],[54423,'4399?ò????','/flash/54423.htm#history0','//imga4.5054399.com/upload_pic/2016/2/22/4399_20085427468.jpg',1],[18012,'?????ó??????','/flash/18012.htm#history0','//imga3.5054399.com/upload_pic/2016/2/18/4399_18432063237.jpg',1],[17403,'?à??×??ê','/flash/17403.htm#history0','//imga4.5054399.com/upload_pic/2016/2/22/4399_20524038407.jpg',1],[177383,'?·??×????ù?????·9????°?','/flash/177383.htm#history0','//imga4.5054399.com/upload_pic/2016/7/21/4399_15303269828.jpg',1],[117252,'???????·???ê??3','/flash/117252.htm#history0','//imga3.5054399.com/upload_pic/2016/2/25/4399_09341292954.jpg',1]];
+
+</script>
+
+<div id="skiner" style="display:none;width:450px;height:691px;">
+
+<div class="skin_box" id="skin">
+
+	<div class="skin_top">
+
+    	<div class="skin_tab">
+
+        	<a class="on" href="" id="skincommendtab" onclick="return false;" target="_self" onmouseover="chgskintype(1);return false;">????</a>
+
+            <a href="" id="skinnewtab" onclick="return false;" target="_self" onmouseover="chgskintype(2);return false;">×???</a>
+
+        </div>
+
+    	<a class="p_close" href="#" target="_self" onclick="return cancelskin();"></a>
+
+    </div>
+
+    <div class="skin_ul cf" id="skincommend"></div>
+
+	<div class="skin_ul cf" id="skinnew"></div>
+
+    <div class="skin_box1">
+
+		<div id="skinpager" style="display:none;"></div>
+
+        <div class="skin_btn">
+
+        	<a class="dr" target="_self" href="" onclick="return saveskin();">±???</a>
+
+            <a href="" target="_self" onclick="return cancelskin();">????</a>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="skin_pop"></div>
+
+</div>
+
+<div class="sides" id="__top_ico" style="margin-left: 500px; visibility: visible;display:none">
+
+<div class="s-box">
+
+<a target="_self" href="#" onclick="tracead('www-right-01');window.scrollTo(0,0);return false;" class="s-top" style="display:none;"></a>
+
+<a href="" onclick="tracead('www-right-02');GoToBestPosition('newtj',32);return false;" target="_self">×??????·</a>
+
+<a href="" onclick="tracead('www-right-03');GoToBestPosition('girl',32);return false;" target="_self">???ú???·</a>
+
+<a href="" onclick="tracead('www-right-04');GoToBestPosition('h5',32);return false;" target="_self">H5??????</a>
+
+<a href="//www.3000.com/" target="_blank" onclick="tracead('www-right-05');">????????</a>
+
+</div>
+
+<a class="g-box" href="/flash/12439.htm" onclick="tracead('www-right-06');"><img src="//imga3.5054399.com/upload_pic/2023/2/7/4399_17185832958.jpg" /></a>
+
+</div>
+
+<script language="javascript" src="/jss/sosmart_s.js"></script>
+
+<script language="javascript" src="/jss/reloadpage.js"></script>
+
+<script language="javascript" src="/jss/jquery-1.6.1.min.js"></script>
+
+<script type="text/javascript" src="/js/globalSearchWord.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+    if(typeof(possible_search_words)!="undefined"){ 
+
+        var sic = document.getElementById("smart_input"); 
+
+        function jsrnd(n,m){var c = m-n+1;return Math.floor(Math.random() * c + n);}
+
+        var jsrndbum = jsrnd(0,possible_search_words.length-1);
+
+        var defaultsearch = possible_search_words[jsrndbum];
+
+        if(defaultsearch){
+
+            sic.value = defaultsearch;
+
+            sic.onfocus = function(){if(sic.value == defaultsearch){sic.value='';}};
+
+            sic.onblur = function(){if(sic.value == ''){sic.value=defaultsearch;}};
+
+            sic.placeholder = defaultsearch;
+
+        }
+
+    }
+
+});
+
+</script><script language="javascript" src="/jss/skiner26.js"></script>
+
+<script language="javascript" src="/jss/index20200110_s3.js"></script>
+
+<script language="javascript" src="/jss/indexcoup.js"></script>
+
+<script language="javascript" src="/jss/lazyloading.js"></script>
+
+<script language="javascript">//try{new Image().src = "//adtrace.5054399.com/skin.js?from="+index4399skin;}catch(ex){}</script>
+
+<script src='/js/4399stat.js' language='JavaScript' charset='gb2312'></script>
+
+<img src="//sbai.4399.com/4399swf/upload_swf/ftp36/cwb/yr.jpg" width="0" height="0">
+
+<img src="//www.zxwyouxi.com/favicon.ico" width="0" height="0">
+
+</body>
+
+</html>
+
