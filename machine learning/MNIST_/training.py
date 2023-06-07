@@ -84,4 +84,5 @@ for times in range(60001):
         np.save("./minist_data/hidden_parameter1.npy", hidden_parameter1)
         np.save("./minist_data/hidden_parameter2.npy", hidden_parameter2)
         np.save("./minist_data/output_parameter.npy", output_parameter)
+        print(error.sum() / 10)
         print(times)

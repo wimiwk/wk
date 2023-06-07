@@ -18,13 +18,14 @@ image = np.zeros((5000,3, 224, 224), dtype=np.float32)
 for i in range(5000):
     image[i] =np.stack((transform(Image.fromarray(data_[i].astype(np.uint8))),)*3, axis=-1).transpose(2, 0, 1)
 #img=[Image.fromarray((image[i] * 255).astype(np.uint8).transpose(1, 2, 0)) for i in range(5000)]
-img=[transforms.ToTensor()(Image.fromarray((image[i] * 255).astype(np.uint8).transpose(1, 2, 0))) for i in range(5000)]
+img=[transforms.ToTensor()(Image.fromarray((image[i]).astype(np.uint8).transpose(1, 2, 0))) for i in range(5000)]
 # 加载模型
 model = models.resnet18(pretrained=True)
 in_features = model.fc.in_features
 model.fc = nn.Linear(in_features, 10)
-model.load_state_dict(torch.load('model.pth'))
+model.load_state_dict(torch.load('model_16.pth'))
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+print(device)
 model.to(device)
 
 # 进行推理
@@ -40,4 +41,4 @@ with torch.no_grad():
         predicted_[m]=predicted.cpu().numpy()
         m+=1
 # 保存结果
-np.save('result.npy', predicted_)
+np.save('result_.npy', predicted_)
